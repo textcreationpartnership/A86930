@@ -1,0 +1,789 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The magistrates charge, for the peoples safetie. Laid open in a sermon, preached before the right Honorable House of Peeres, in the Abbey Church at Westminster, at their late solemne monthly fast, May 26. 1647. / By William Hussey, Minister at Chesilhurst in Kent.</title>
+            <author>Hussey, William, minister of Chiselhurst.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86930</idno>
+            <idno type="STC">Wing H3818</idno>
+            <idno type="STC">Thomason E389_7</idno>
+            <idno type="STC">ESTC R201521</idno>
+            <idno type="EEBO-CITATION">99862021</idno>
+            <idno type="PROQUEST">99862021</idno>
+            <idno type="VID">160243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160243)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E389[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The magistrates charge, for the peoples safetie. Laid open in a sermon, preached before the right Honorable House of Peeres, in the Abbey Church at Westminster, at their late solemne monthly fast, May 26. 1647. / By William Hussey, Minister at Chesilhurst in Kent.</title>
+                  <author>Hussey, William, minister of Chiselhurst.</author>
+               </titleStmt>
+               <extent>[8], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Harper, for Iohn Saywell, and are to be sold at his shop in Little Britaine, at the signe of the Greyhound,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print on verso of first leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms II, 10 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:160243:1"/>
+            <head>
+               <hi>Die Jovis,</hi> 27. <hi>May</hi> 1647.</head>
+            <p>Ordered by the Lords in Parliament, that Mr. <hi>Huſſey,</hi> is hereby thanked for his great paines taken in his Ser<g ref="char:EOLhyphen"/>mon preached yeſterday, before their Lord<g ref="char:EOLhyphen"/>ſhips, in the Abbey Church, <hi>Weſtminſter.</hi> And he is hereby defired, to cauſe the ſame to be Printed and publiſhed, which is to be done onely by authority under his owne hand.</p>
+            <closer>
+               <signed>Jo: Browne Cleric. Parliamenter.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>I doe appoynt</hi> John Saywell <hi>to print my Sermon.</hi>
+               </p>
+               <closer>
+                  <signed>William Huſſey.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:160243:1" rendition="simple:additions"/>
+            <p>The Magiſtrates CHARGE, FOR THE PEOPLES SAFETIE. Laid open in a Sermon, preached be<g ref="char:EOLhyphen"/>fore the right Honorable Houſe of Peeres, in the Abbey Church at <hi>Weſtminſter,</hi> at their late ſolemne monthly Faſt, <hi>May</hi> 26. 1647.</p>
+            <p>By WILLIAM HUSSEY, Miniſter at <hi>Cheſilburſt</hi> in Kent.</p>
+            <q>
+               <bibl>HEB. 13.16.</bibl>
+               <p>
+                  <hi>But to doe good, and to communicate forget not, with ſuch Sacrifices God is well pleaſed.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Harper,</hi> for <hi>Iohn Saywell,</hi> and are to be ſold at his Shop in Little Britaine, at the Signe of the Greyhound, 1647.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:160243:2"/>
+            <pb facs="tcp:160243:2"/>
+            <head>TO The right Honourable, the Lords aſſembled in the high Court of Parliament.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen God is pleaſed to doe any ſingu<g ref="char:EOLhyphen"/>lar worke,<note place="margin">Kek. lib. 3. Eth. 5. Cap. 19.</note> either to lay the founda<g ref="char:EOLhyphen"/>tions of Kingdomes, or reſtore thoſe that are ſhaken to their integrity; he ſtirreth up heroick ſpirits to per<g ref="char:EOLhyphen"/>forme it; great workes muſt be ef<g ref="char:EOLhyphen"/>fected by powerfult cauſes: Now thoſe that are of heroick ſpirits, are led with vehement deſire and love of ſome excellent end, and lift up their minde to the laſt and chiefe end, even to God and holy things, to the higheſt pitch of honeſty; that ſo they might preferre the publique good, before the private, by a certaine high prerogative: when deſire is found in heroick natures, men will walke with in<g ref="char:EOLhyphen"/>credible conſtancy, ſo as that they cannot bee inticed from their propoſed endeavours by any pleaſure, or hindered by
+<pb facs="tcp:160243:3"/>any troubles and difficulties. <hi>N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ue cenſebat civitatem fe<g ref="char:EOLhyphen"/>licem ſtantibus maenibus mentibus mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibus,</hi>
+               <note place="margin">Ang de civitate <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> libro 2. c. 19. cap. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> that Com<g ref="char:EOLhyphen"/>mon wealth is not happy whoſe manners are deſtroyed: <hi>In caeleſti nepublica Dei voluntas lex eſt,</hi> in an holy Com<g ref="char:EOLhyphen"/>mon wealth, the will of God is the Law unto which all the members of a Common-wealth muſt conſent, <hi>Ut ex ſonis harmonia in muſica, ſic ex ſummis mediis &amp; infinis con<g ref="char:EOLhyphen"/>cordia in republica,</hi> As harmony in Muſicke is made of di<g ref="char:EOLhyphen"/>verſe ſounds, ſo is a Common-wealth made of the concord of three ſtates: The differences that ariſe betweene the Prince and people muſt be brought to concord by the third: and therefore <hi>Ariſtotle</hi> ſaith,<note place="margin">Ariſt. eth. 8 c. 11. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> as large as any ſociety is, ſo large is friendſhip; and <hi>Kekerman, Amicitia ſimpliciter neceſſaria ad vivendum,</hi> men cannot live without friend<g ref="char:EOLhyphen"/>ſhip. <hi>Ier. 29.7.</hi> Seeke the peace of the City, whither I have ſent you captive: pray for it, for in the peace of it yee ſhall have peace:<note place="margin">Kek. lib. 1. c. 3.</note> And <hi>Pſalme 122.6.</hi> Pray for the peace of Je<g ref="char:EOLhyphen"/>ruſalem, they ſhall proſper that love thee: and this is the order that God hath ſet in nature, that Gods Lawes ſhould be above all humane. Thoſe that are publicke above pri<g ref="char:EOLhyphen"/>vate, that which doth ſimply reſpect that which is honeſt be<g ref="char:EOLhyphen"/>fore the publick good: You ſee men muſt preferre the pub<g ref="char:EOLhyphen"/>like good before the private good; becauſe every mans own per<g ref="char:EOLhyphen"/>ticular ſafety is lapped up in the publique peace; but men muſt preferre God, and truth or honeſty, before themſelves: but you may ſee that this is more then an ordinary degree of morall vertue, to have an heroick and publique ſpirit: Men naturally when they have power, ſeeke themſelves: that is a divine and her ick reſolution, when they that have power in their hands, ſhall uſe ſuch moderation, as not to make a<g ref="char:EOLhyphen"/>ny uſe of it to their owne ends, and opreſſion of the publique. When every part of the kingdom may have their due, then cer<g ref="char:EOLhyphen"/>tainly the ſword is in a good hand: But this is and hath been very rare, when heret<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ore the flatterers at Court did per<g ref="char:EOLhyphen"/>ſwade his Majeſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y that all power was in his hands, though
+<pb facs="tcp:160243:3"/>indeed the orderly and juſt uſe of the Sword, was to be ex<g ref="char:EOLhyphen"/>erciſed by and under the Courts of juſtice; yet in thoſe times the Courtiers did perſwade his Majeſty, to carry too ſtrict a handover his Commoners, and not ſuffer them to plead their priviledges and liberties, as in juſtice and equity they ſhould have been permitted; and therefore God was pleaſed for a time, to let his Majeſty ſee that it was in his power wholy to have wreſted the Sword out of his hand: then there was an opinion paſſeſſed the Commons, that they had gotten the Sword: And now againe it commeth into confi<g ref="char:EOLhyphen"/>deration, whether they were not over ſtrict in keeping the King and Lords from pleading their rights in a peaceable and friendly way.</p>
+            <p>I humbly and heartily wiſh that the Houſes would both agree to ſettle the power and priviledges of Parliament, in ſuch a friendly way as may conduce to peace, that no part wight make uſe of their power and intereſt of the people, to aſſume to them more then of right doth belong to them, to the prejudice of the other pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty; power is a moſt uncertaine thing, where it is not regulated by wiſdome and Law; that ſome courſe may be taken for the puniſhment of all delin<g ref="char:EOLhyphen"/>quent ſubjects, of what ranke ſoever; and accordingly it might be regularly adminiſtred: a courſe is plaine, which way a Lord way be puniſhed by way of impeachment; but which way a Commoner of criminall, is not yet cle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, which I am confident hath given this boldneſſe to the Army to break out in this extraordinary way. And now I ſhall take the boldneſſe to informe your Lordſhips a word or two touch<g ref="char:EOLhyphen"/>ing this ſtrange accident that hath lately happened from the Army: Firſt, I ſay they are the rod of God, which is no<g ref="char:EOLhyphen"/>thing to the juſtice or unjuſtice of their proceedings, and that ſo farre as they ſhall deſire, that courſe may be taken that the proceedings of Parliament may be put in a forme of juſtice, that may afford a ſpeeay tryall of ſuch Members of the Houſe of Commons as ſhall be criminall, that may have
+<pb facs="tcp:160243:4"/>a facile and ſpeedy progreſſe and determination before com<g ref="char:EOLhyphen"/>petent Judges. And I hope the Army will be content to in<g ref="char:EOLhyphen"/>forme what they can in a judiciall way, againſt theſe Mem<g ref="char:EOLhyphen"/>bers they complaine off, and not deſire that any judgement of ſuſpenſion or otherwiſe, may bee paſſed againſt them, without tryall: They profeſſe themſelves juſt men, I hope therefore their demaunds, as ſomewhat the more large for that they ſaw no way open for their tryall, and for that none have yet been puniſhed: which if the way were opened, not onely they would be content to walke in the common path, and others that deſerve it, may be puniſhed as well as they; the Members themſelves made more wary, the people receive ſatisfaction, and a loving peace confirmed, Which God grant.</p>
+            <closer>
+               <signed>
+                  <hi>Your Lorſhips Servant,</hi> William Huſſey.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:160243:4"/>
+            <epigraph>
+               <bibl>
+                  <hi>PSALME 2.10.</hi>
+               </bibl>
+               <q>
+                  <p>
+                     <hi>Be wiſe now therefore, O yee Kings, be learned, yee that be Judges of the Earth: ſerve the Lord in feare, and rejoyce to him with reverence.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Shall not trouble your Lordſhips with any further preamble then what wil make for the argument of the Text, wherin I ſhall deſire to ſuſtaine the perſon, and per<g ref="char:EOLhyphen"/>forme the duty of a Steward of the manifold graces of God, de<g ref="char:EOLhyphen"/>claring the minde of God, not in the inticing words of mans wiſedome, but demonſtration of the ſpirit in the word: not like the Scribes, but as one that hath received Autho<g ref="char:EOLhyphen"/>rity from God, whoſe wiſdome can ſhine through the weakeſt inſtruments upon a beleeving heart.</p>
+            <p>This Pſalme may be divided into 4 parts; a Propheſie
+<pb n="2" facs="tcp:160243:5"/>that Nations and Kingdomes ſhall ſet themſelves againſt God and Chriſt in the three firſt verſes.</p>
+            <p n="2">2. A conſolation to the Saints againſt the fury of them that goe about to overthrow the Kingdome of Chriſt, beginning at the fourth verſe, unto the words of my Text.</p>
+            <p n="3">3. A charge given to the Kings and Judges of the earth, how they ſhould behave themſelves in the words of my Text in the 11 verſe, and beginning of the 12.</p>
+            <p>Laſtly, an Argument to perſwade Kings and Judges of the earth to looke to the charge.</p>
+            <p>Divers Interpretersdoe uphold the literall ſence of Da<g ref="char:EOLhyphen"/>vid and his Kingdome; but ſo many great things are ſpo<g ref="char:EOLhyphen"/>ken of this Kingdome that is ſet upon the holy hill of Si<g ref="char:EOLhyphen"/>on, that they are inforced to acknowledge that the prin<g ref="char:EOLhyphen"/>cipall ſcope of the words are verified in the Kingdome of Chriſt, whereof Davids Kingdome was a Type.</p>
+            <p>In the firſt part the Prophet ſetteth downe the <hi>enmity that Kings and Rulers beare againſt Chriſt, their conſul<g ref="char:EOLhyphen"/>tation is to ſhake off his Dominion.</hi>
+            </p>
+            <p>Note earthly minded Rulers cannot eaſily beare the Dominion of Chriſt.</p>
+            <p>In the ſecond part, God will <hi>laugh them to ſcorne, diſ<g ref="char:EOLhyphen"/>appoint and fruſtrate their conſultations, breake them with a r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of iron, and daſh them in pieces like a Petters veſſell.</hi>
+            </p>
+            <p>Note the vanity of their conſultation, and perill <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their perſons.</p>
+            <p>In my Text yee have a remedy, <hi>be wiſe now yee Kings be learned yee that be Judges of the Earth.</hi>
+            </p>
+            <p>Note that wiſedome of Kings, and learning of Judges is the meanes to deliver a Kingdome from deſtruction.</p>
+            <p>In the laſt, the inevitable danger that ſhall fall on them that uſe not this remedy, if his wrath be kindled but a lit<g ref="char:EOLhyphen"/>tle, they muſt needs be in a ſad condition, no way to eſ<g ref="char:EOLhyphen"/>cape but by truſting in him.</p>
+            <pb n="3" facs="tcp:160243:5"/>
+            <p>Note, no power of man can withſtand his diſpleaſure.</p>
+            <p>The words may admit of a generall diviſion into three parts, circumſtances, perſons, charge.</p>
+            <p n="1">1. The <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> words that ſignifie with o<g ref="char:EOLhyphen"/>thers, and theſe are three.</p>
+            <p>The two firſt in this one word <hi>now.</hi>
+            </p>
+            <p>The latter in theſe two words <hi>O yee.</hi>
+            </p>
+            <p>The word now <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> doth not only ſignifie the time, but alſo an inference or reaſon;<note place="margin">Lorin. nunc habe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> uns illa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> now is as much as to ſay ſeeing it is ſo as it is, ſeeing there is ſuch power in Chriſt as there is to <hi>daſh you in pieces,</hi> let this be a motive, be wiſe therefore, and doe not anger him, this is plainely ſeen in that ſpeech of God to Moſes repeated by Stephen, <hi>I have ſeene the affliction of my people,<note place="margin">Act. 7.34.</note> and have heard their groning, and am come downe to deliver them, and now come and I will ſend thee,</hi> that is therefore <hi>I will ſend thee at this time:</hi> the Tranſlators therefore have well tranſlated it, <hi>now therefore,</hi> wherein are contained the circumſtance of time, and the reaſon.</p>
+            <p>The third circumſtance is the exclamation, <hi>O yee</hi>
+            </p>
+            <p n="2">2. The perſons are <hi>Kings, and Judges of the earth.</hi>
+            </p>
+            <p n="3">3. The charge it ſelfe, and that is, firſt ſingly to <hi>Kings, be wiſe.</hi> 2. Singly to <hi>Judges, be learned.</hi> 3. Joyntly to them both, <hi>ſerve the Lord in feare, rejoyce to him with reverence.</hi> I ſhall handle the perſons, and part of the charge diſtinctly, and interweave the circumſtances as they ſhall make for the ſence of the words.</p>
+            <p>The perſons are <hi>Kings,</hi> &amp; <hi>Judges,</hi> who are here charged with the reparation &amp; avoyding the danger that may fall upon them that conſult againſt God and Chriſt. In the be<g ref="char:EOLhyphen"/>ginning of the Pſalme <hi>they that conſult againſt Chriſt are a full Parliament excluſoclero;</hi> nay many Parliaments, ma<g ref="char:EOLhyphen"/>ny Nations, becauſe many Kings: now no Nation can have any more then one King, by the unity of whoſe per<g ref="char:EOLhyphen"/>ſon wiſer times did provide againſt faction and diviſion,
+<pb n="4" facs="tcp:160243:6"/>which I conceive to be the <hi>iron rod</hi> whereby Chriſt will <hi>deſtroy them that riſe up againſt him, they ſhall fall one upon another, and daſh themſelves in peeces,</hi> no peace ſo firme as that which commeth from the Goſpel of peace.</p>
+            <p>The parts of a Parliament are here expreſſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>People,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Rulers,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Kings,</hi> but the charge of Reformation layd on <hi>Kings, and Judges</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>The Doctrine,<note place="margin">Doct.</note> when <hi>Kings, Rulers, and People, when Nations make Lawes againſt God and Chriſt,</hi> the Refor<g ref="char:EOLhyphen"/>mation is layd upon <hi>Kings, and Judges.</hi>
+            </p>
+            <p>I ſhall firſt explane the words, then prove the Doctrine, and laſtly make Application.</p>
+            <p>It may be doubtfull whether this be a figure called <hi>Hen<g ref="char:EOLhyphen"/>diades,</hi> where the ſame perſon or things are ſet downe under divers appellatives,<note place="margin">1 Sam. 8.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> the ſame perſons may be Kings and Judges, the Iſraelits <hi>deſire a K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng to judge them, and fight their battles,</hi> though eſpecially in hereditary King<g ref="char:EOLhyphen"/>domes, Lawes have provided Judges to judge for them, and in Parliaments, Nobles to judge with them, to provide for defects of minority and education that they may with the more honour and ſtate enjoy the pleaſure, and under<g ref="char:EOLhyphen"/>goe the burthen of Government; and in war they pro<g ref="char:EOLhyphen"/>vide Generalls to eſchew the hazard and danger of their perſons; yet the judgements of peace, and leading in war doe belong to the duty of a King, for the preſervation of his Countrey, and good of his Subjects, and therefore Kings and Judges may poſſibly be the ſame perſons.</p>
+            <p n="2">2. Kings and Judges may be ſeverall perſons of ſeve<g ref="char:EOLhyphen"/>rall States, ſuch Judges as were before the Kings in Iſrael, and theſe were all one in the office and duty of their place, they were chiefe Governours both in peace and war, dif<g ref="char:EOLhyphen"/>fering from Kings in Pompe and State, not in Power and Government.</p>
+            <p n="3">3. They might be ſeverall perſons of the ſame States, for that ſeldome ſeverall Kings and Nobles met together
+<pb n="5" facs="tcp:160243:6"/>in one conſultation; but becauſe many of theſe conſulta<g ref="char:EOLhyphen"/>tions might agree in this <hi>that they were againſt God and Chriſt:</hi> Therefore it is ſaid <hi>Kings, and N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bles, and Peo<g ref="char:EOLhyphen"/>ple were gathered againſt God and Chriſt,</hi> for if all the Na<g ref="char:EOLhyphen"/>tions were againſt Chriſt, yet they could not be ſayd to conſult unleſſe they met and adviſed one with another.</p>
+            <p n="2">2. It muſt be conſidered what kinde of Judges theſe were, whether ſuperiour or ſubordinate Judges.</p>
+            <p>I conceive they were ſuperiour Judges joyned with the Kings in judicature.</p>
+            <p>There are divers ſorts of Nobles ſpoken of in the Scrip<g ref="char:EOLhyphen"/>tures. Firſt, Nobles, Court Princes, ſuch as are called Prin<g ref="char:EOLhyphen"/>ces of the Bakers, and Princes of Solomons worke,<note place="margin">Gen. 40 2. 1 King. 9.22.</note> his buil<g ref="char:EOLhyphen"/>dings and proviſions for his houſe theſe are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which in the ſecond verſe of this Pſalme,<note place="margin">Pagnin.</note> are tranſlated Rulers, ſuch as had the next degree to the Kings cheife Councellours of State, <hi>Comites Imperii Barones, La<g ref="char:EOLhyphen"/>fords Thanes</hi> men of valour and judgement, Pillers of the Crowne, whoſe duty was to preſerve the King both in peace and war, from miſcariages, and diſhonour by puni<g ref="char:EOLhyphen"/>ſhing them in judgement that ſhall miſguide the King, or act any thing againſt Law, by any ſurreptitious Warrants or Commiſſions from his Majeſty, or tranſgreſſe their lawfull Commiſſions to the wrong and injury of the peo<g ref="char:EOLhyphen"/>ple; theſe had a principall hand in the making of Lawes, <hi>By me Kings raigne, and Princes decree Juſtice,</hi>
+               <note place="margin">Prov 8.15. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> theſe are the men that were mentioned in the ſecond verſe, but in the words of my Text they are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Judges,</hi> and therefore it may be doubtfull whether they be the ſame men which did conſult in the ſecond verſe, which are here charged in the words of my Text; but I conceive they were the ſame for theſe reaſons.</p>
+            <p n="1">1. Becauſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may be aſcribed to the higheſt Judges in the world, to abſolute Princes, to Moſes, Exod. 18.16. to God himſelfe, Gen. 18.25. and that is to let us
+<pb n="6" facs="tcp:160243:7"/>underſtand that theſe chiefe Rulers that conſulted with the Kings had a place of judicature, that if any thing eſcape them in conſultation, that might be mended in judicature.</p>
+            <p n="2">2. Thoſe Rulers that were mentioned in the ſecond verſe, were guilty of the crime which is here charged to be amended; and therefore it is moſt rationall they ſhould be called to repentance.</p>
+            <p n="3">3. If Kings, Rulers, and People ſhould once joyne to<g ref="char:EOLhyphen"/>gether and make a Law againſt God and Chriſt, it were an hard matter for an inferiour Judge to amend it. It is true they may Judge againſt it, but it would be carried on by the appeale, unleſſe it be reformed in the ſuprcame Court, where the errour firſt began, and ſo the wrath of God re<g ref="char:EOLhyphen"/>maine unappeaſed. Thus you ſee who theſe Kings and Judges were in all probability, they were ſeverall Kings of ſeverall Nations, conſulting with their owne Nobles, and People againſt God and Chriſt, that are here called u<g ref="char:EOLhyphen"/>pon to repent of their wicked Decrees, and Lawes that they had made againſt him, ſo that my Doctrine doth now appeare under this forme of words.</p>
+            <p>If any thing doth ſlip in conſultation with publique conſent of Kings, Nobles, and People againſt God and Chriſt, the charge doth lie upon Kings and Judges to a<g ref="char:EOLhyphen"/>mend it.</p>
+            <p>But here ariſe three ſcruples how it ſhould come to paſſe that when Kings,<note place="margin">Object.</note> Rulers, and People were guilty, the Kings, and Rulers are called to repentance, and the people left out, what will God be content to ſpare a Na<g ref="char:EOLhyphen"/>tion if Kings and Rulers repent, though the people go on ſtill in their iniquity.</p>
+            <p>I anſwere in reſpect of temporall puniſhment:<note place="margin">Anſ.</note> It may be ſometimes he will: if God would ſpare Sodome for ten; why may he not ſpare a people for their Kings and Rulers? If he will plague Iſrael for Davids numbring the people; why may he not ſave a people as he did for
+<pb n="7" facs="tcp:160243:7"/>Moſes ſake? but alwaies he doth it not. The reformation of Kings and Nobles is a great meanes to reforme the peo<g ref="char:EOLhyphen"/>ple; but if notwithſtanding their Reformation the peo<g ref="char:EOLhyphen"/>ple remaine wilfull, their judgement doth often fall the more heavy even in this life as may appeare.<note place="margin">2 Kiv. 23.25 26.</note> Joſiah a moſt pious and holy Prince, yet God reſerved evill to bring upon the Jew<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s for that they did not reforme.</p>
+            <p>The Prophet rendreth a reaſon.<note place="margin">Ier. 3.10</note> 
+               <hi>Her treacherous ſiſter Judah did not turne to me with all her heart, but fainedly.</hi> Jo<g ref="char:EOLhyphen"/>ſiah cauſed them to turne in ſhew, but it was in hypocri<g ref="char:EOLhyphen"/>ſie, though their hypocriſie was none of Joſiahs fault, but their owne.</p>
+            <p n="2">2. But here ariſeth yet a ſecond ſcruple, how it ſhould be in the power of Kings and Nobles to amend that which is done amiſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by Kings, Nobles, and people, is it in their power not to put that in execution which is made into a Law? Yes if againſt God and Chriſt, if againſt the Law of God, Gods Lawes have the force of an univerſall Law unto which humane poſitive Lawes muſt give way, <hi>lex particularis cedit univerſali,</hi> mans Law is void,<note place="margin">Doctor and Stu<g ref="char:EOLhyphen"/>dent.</note> if a<g ref="char:EOLhyphen"/>gainſt Gods Law.</p>
+            <p n="3">3. But here will be a breach betweene theſe that ſhall ſo judge the King, and Nobles, and the people,<note place="margin">Object.</note> if that be adjudged againſt the Law of God, which is newly recei<g ref="char:EOLhyphen"/>ved for an humane Law; and therefore this doth put Kings and Nobles into ſtreights;<note place="margin">Anſ.</note> This muſt not be carry<g ref="char:EOLhyphen"/>ed with an high hand as an act of power, but prudently as an act of wiſdome, ſo as God may not be provoked, and daſh you all in peeces, nor the people neglected in the par<g ref="char:EOLhyphen"/>ticular Covenant made with them.</p>
+            <p>They muſt wiſely uſe meanes to revoke ſuch Lawes as are made againſt God and Chriſt: Yet by their wiſe and learned carriage give the people ſatisfaction. This charge of bearing the Lawes, the yoke, and bonds of Chriſt is layd on Kings and Judges for foure reaſons.</p>
+            <pb n="8" facs="tcp:160243:8"/>
+            <p n="1">1. Becauſe they of all men are moſt inclinable to ſhake off the yoke of Chriſt;<note place="margin">Fabritius exhorta<g ref="char:EOLhyphen"/>tio <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llurecipue ne<g ref="char:EOLhyphen"/>ceſſaria qus gradu &amp; pot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntia inter honines em<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nent non ſacile ſe jugo Chriſts ſubmittunt leges ſibt preſcribs <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nviti patiuntur. Martinius chſtat faſtus us volunt emperitivideri qui<g ref="char:EOLhyphen"/>bu, opus eſt inſti<g ref="char:EOLhyphen"/>tutione ill<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quam<g ref="char:EOLhyphen"/>vis de officio <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>for<g ref="char:EOLhyphen"/>mat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onem eminen<g ref="char:EOLhyphen"/>tie ſuae authorita<g ref="char:EOLhyphen"/>tis deformationem interpretantur.</note> great ones never thinke themſelves great enough unleſſe they be abſolute, un<g ref="char:EOLhyphen"/>leſſe they may act ſo as if they had no ſuperiour to whom they muſt give an account. That exhortation doth principally belong to them that are in Authority, becauſe they do not eaſily ſubmit to the yoke of Chriſt, they are unwilling to have any Lawes given them; and the other Author Pride will not ſuffer them to receive any inſtruction, becauſe they will not ſeeme to be ſo unskilfull as to need inſtruction, they thinke any in<g ref="char:EOLhyphen"/>formation a ſtaine to their Authority.</p>
+            <p>Such oppoſition againſt God and Chriſt hath beene found in all Ages from great ones.</p>
+            <p>
+               <hi>Pharoah,<note place="margin">Exod 5 2. 2 King. 8 33</note> who is the Lord that</hi> I <hi>ſhould heare his voice? Ze<g ref="char:EOLhyphen"/>nacherib, hath any of the Gods of the Nations delivered his people ont my hands?<note place="margin">Ie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 2.3.</note> wee are Lords, wee will come no more unto thee.</hi>
+            </p>
+            <p>Therefore doth the Lord cry out upon Kings, and Princes, and Judges of the earth, <hi>that they ſhould have ſpeciall care to ſubmit to the Government of Chriſt:</hi> ex<g ref="char:EOLhyphen"/>clamations are uſed in plaine matters, and matters of great weight: It is no ſmall matter for Kings, and Nobles to ſhake off the bonds of ſubjection to God and Chriſt;<note place="margin">Voſſiu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in minu<g ref="char:EOLhyphen"/>u &amp; cont-overſis <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e p<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> rile &amp; ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igi<g ref="char:EOLhyphen"/>dum.</note> looke to it Kings, and Nobles, Kings, and Judges, have a care of your charge, or yee will be bro<g ref="char:EOLhyphen"/>ken in peeces, yee will provoke the Lord to anger, and all your purpoſes fruſtrated, and your perſons deſtroy<g ref="char:EOLhyphen"/>ed, you have a great inclination to forget me in re<g ref="char:EOLhyphen"/>garde of your greatneſſe; therefore I charge you to beware.</p>
+            <p n="2">2. Reaſon, God hath committed the care of his peo<g ref="char:EOLhyphen"/>ple to them that they ſhould ſeeke their good, he is the inſtrument of God for thy good,<note place="margin">Rom. 13.4.</note> God doth not ſo ſet Kings and Princes over his people as to have no care
+<pb n="9" facs="tcp:160243:8"/>of them himſelfe: But he committeth his people to them, ſo that he looketh to them himſelfe; he giveth them their charge, and taketh account of them becauſe their inferiours cannot doe it ſo eaſily; God doth charge the King himſelfe,<note place="margin">Deut. 17.18.</note> 
+               <hi>to have a care that he write him a booke of the Law.</hi> He taketh account of the Prin<g ref="char:EOLhyphen"/>ces <hi>of the wrong done to his peaple.<note place="margin">Eſay. 3.14, 15.</note> The Lord will enter in<g ref="char:EOLhyphen"/>to judgement with the Ancients, and Princes for the wrong done to his people, for yee have eaten up the Vineyeard, and the spoyle of the poore is in your houſes. What meane you that yee beate my people to peeces, and grinde the faces of the poore, doe you thinke I will take no account of this, will you be bro<g ref="char:EOLhyphen"/>ken in peeces with the iron rod?</hi> It belongeth to God as ſupreame to redreſſe all the abuſes of the moſt abſolute Princes and Magiſtrates on the earth. Appeales come to him like the cry: that came from Sodome, no miſcar<g ref="char:EOLhyphen"/>riages ſhall eſcape him.<note place="margin">2 Cron. 16<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>The eyes of the Lord run too and fro, throughout the whole earth, to ſhew himſelfe ſtrong in the behalfe of him, whoſe heart is perfect towards him:</hi> And therefore doth the Prophet David appeale to God.<note place="margin">Pſal 82.8.</note> 
+               <hi>A<g ref="char:EOLhyphen"/>riſe, O God, and judge thou the earth,</hi> if men will not, the Lord of Hoaſts will, his Hoaſts ſhall.</p>
+            <p n="3">3. God doth eſpecially, charge Princes with their duty of ſubjection, becauſe they have a great influence upon the people,<note place="margin">2 King. 10.31.</note> eſpecially <hi>to evill Jereboam the Son of Nebat made Iſrael to ſin;</hi> if Princes, Kings, and Judges be wicked, they ſhall not want inſtruments to forward their wickedneſſe:<note place="margin">2 Cron. 21.3.6. &amp; 4.</note> 
+               <hi>If David will have the people num<g ref="char:EOLhyphen"/>bred, Joab will act it though againſt conſcience,</hi> he ſaid, <hi>why will the King be a cauſe of trespaſſe,</hi> and in 6 verſe, <hi>the Kings word was abhominable to Joab;</hi> yet in 4 verſe, <hi>the Kings word prevailed with Joab.<note place="margin">Dan. 3.</note> If Nebuchadnezzar ſet up a Golden Image, none are found that withſt and it, but Shadrach, Meſhach, and Abednego,<note place="margin">Eſay. 9.16.</note> the leaders of this peo<g ref="char:EOLhyphen"/>ple cauſe them to erre, and they that are led by them are de<g ref="char:EOLhyphen"/>ſtroyed.</hi>
+               <pb n="10" facs="tcp:160243:9"/>Therefore God chargeth Kings with their duty for the ſafety of his people.</p>
+            <p n="4">4. If ſins be committed as long as Kings, and Prin<g ref="char:EOLhyphen"/>ces execute judgement, the wrath of God is appeaſed toward that Nation:<note place="margin">Numb. 35.33.</note> 
+               <hi>Blood defileth the Land, and it can<g ref="char:EOLhyphen"/>not be purged but by the hand of him that flew.</hi>
+            </p>
+            <p>
+               <hi>Phinehas hath turned my wrath away from the Children of Iſrael;<note place="margin">Numb 25.11.</note> then ſtood up Phinchas and executed judgement and ſo the plague ceaſed.</hi>
+               <note place="margin">Pſal. 106.36.</note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> Information that Kings and Nobles are neerely lin<g ref="char:EOLhyphen"/>ked together in the government of Nations, God doth not charge Kings alone, but Kings and Judges, Kings and Nobles, the buſineſſe of Governement is to weigh<g ref="char:EOLhyphen"/>ty to be undergon by one man alone: There are two ſpeciall duties of a King, the duty of war, and the du<g ref="char:EOLhyphen"/>ty of peace, in both which he muſt neceſſarily have the aſſiſtance of Nobles. Let all Hiſtories be examined, and yee ſhall ſee that in getting and governing of Kingdomes, Nobles and Worthies, had an eſpeciall hand in raiſing Armies, in managing Battles, in jud<g ref="char:EOLhyphen"/>ging the people. Moſes was weary of judging alone, though the people over whom he ruled had been ſlaves, he had beene the inſtrument of their delivery; and God did appeare to and for him upon all occaſions, &amp; therefore if any man might governe alone, Moſes might doe it by ſuch ſpeciall aſſiſtance of God; but when <hi>Iethro ſaw Moſes ſitting in judgement alone,<note place="margin">Exod. 18.17.</note> he was plaine with him, and told him the thiug was not good, and adviſed him to take helpe, or elſe he muſt needes tyre out him<g ref="char:EOLhyphen"/>ſelfe, and the people.</hi>
+            </p>
+            <p>Againe in ſtilling the rage of the people, the aſſi<g ref="char:EOLhyphen"/>ſtance of Nobles hath beene alwaies needfull, Kings deſiring all power into their owne hands make them<g ref="char:EOLhyphen"/>ſelves unable to keepe their owne Courts from oppreſ<g ref="char:EOLhyphen"/>ſing their Subjects, or content their people, by meanes
+<pb n="11" facs="tcp:160243:9"/>whereof people have often beene inraged againſt their Governours.<note place="margin">Numb. 11 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Moſes complained to God that <hi>the peo<g ref="char:EOLhyphen"/>ple murmured againſt him, that he was not able to beare their murmurings,</hi> and of the danger he was in, <hi>deſiring God to kill him that he might not ſee his wretchedneſſe;</hi> that is, that the people might not fall upon him in a m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rable manner and deſtroy him:<note place="margin">D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> dat.</note> For the remedy of which evill the Lord preſcribeth this,<note place="margin">verſ 16.</note> 
+               <hi>gather together ſeventy men of the Elders of the people whom thou knoweſt to be Elders, and Officers over them, and bring them to the Tabernacle of the Congregation, and they ſhall ſtand there with thee,</hi> theſe were the Officers that the Lord appoin<g ref="char:EOLhyphen"/>ted to aſſiſt Moſes in time to come againſt the rebelli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the people, theſe Moſes muſt gather togather in the great Counſell: where yee may ſee of what number and ſort of men theſe muſt be, they muſt be ſeventy a ſet number, not too many for feare of diffention, not too few for feare of partiality, yee may further ſee what manner of men they muſt be, Officers over the people before they were called to the great Counſell,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Icrom.</note> Jerom calleth them <hi>prafectos qui docerent ves ſingula,</hi> and the Septuagint <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Magiſtres Indicibus veſtris,</hi> Maſters of your Judges.</p>
+            <p>Implying that theſe that ſat in this high Counſell to helpe Moſes againſt the commotions of the people, muſt be high in the peoples eſtimation, and muſt have the power of the ſword in their owne hands, in their ſeverall Tribes whereby they might execute their judgements and by their authority ſtop the rage of the people.</p>
+            <p>Without power all judgements were fruitleſſe and voyd,<note place="margin">
+                  <hi>Tollet de caſ <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, lib 5. cap 56. J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n habeat pe<g ref="char:EOLhyphen"/>tellatem, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> formam vi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> Iudge Dodrig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>tle. Earl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> to what end were judgements if the Judges had not power to put their judgment into execution? and therefore in this Kingdome had Earles the third part of their Counties to make them high in the eyes of the
+<pb n="12" facs="tcp:160243:10"/>
+people; they were great Commanders, <hi>c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es,</hi> and <hi>c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>tatus</hi> were relatives, every County h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d an Earle and no more, and Barons had their Baronies, honorable reve<g ref="char:EOLhyphen"/>nue and command, whereby they might aſſiſt the King, defend their Country, and doe the people juſtice: ho<g ref="char:EOLhyphen"/>nour without command in war, and judicature in peace is uſeleſſe,<note place="margin">Eſay. 3 3.4.</note> and a ſcorne, whereas men whoſe fa<g ref="char:EOLhyphen"/>ces are lifted up above the people, are as neceſſary for a Commonwealth as bread and water. Honorable men unto whom the people may have recourſe in caſe of imminent danger to be a ſtay unto them, who meeting in a publique Counſell may carry all things for the publique good: yee may ſee what ſervice David did to Saul againſt the Philiſtines, &amp; what his Worthies did for him,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 58.5.</note> in his wars againſt the houſe of Saul: yee may ſee what power the Nobles had in the dayes of Zede<g ref="char:EOLhyphen"/>kiah unto whom the King did confeſſe <hi>the King is not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e that can doe any thing without you.</hi>
+            </p>
+            <p>To make a man great in war, that is not great in peace, is dangerous, unleſſe virtue ſway, he will love the greatnes of his condition too well, he that is as great in peace as in war, will eaſily change his troubleſome and dangerous eſtate for reſt and ſafety.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> Exhortation, that the King and Lords would joyne together to ſubmit to the government of Chriſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you are required in my Text to joyne with the King in this duty not to be inſtruments of the Kings will, ſo you ſhall ſhew your ſelves ſervants to the King, but not Judges of the earth, his Majeſties wiſdome, and your learning ſhould joyne together to put on the yoke of Chriſt to ſave your ſelves, and your people from brea<g ref="char:EOLhyphen"/>king with the iron rod in the hand of Chriſt, that is as I have intimated from Civill war, from ſuch deſtroying Civill War <hi>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will daſh you all to p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eces,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 48.2</note> 
+               <hi>the Lord is the Lord of Hoſts,</hi> a name that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath put upon himſelfe,
+<pb n="13" facs="tcp:160243:10"/>
+Eſay. 47.4. <hi>Ie<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>va ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> the great n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of God,<note place="margin">Eſay. 4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eſay. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> all Hoſts are his rod, wicked ones, holy ones, juſt or unjuſt, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, inteſtine, legall or rebell<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, they are all his; he puniſheth offenders by them all, what power wee have that wee conceive our ſafety, that party that conceive they have the power of the ſword, ſtrength in their owne hands, they thinke they may doe what they will, but they are mightily decei<g ref="char:EOLhyphen"/>ved, they that have all power to day, may have none to morrow, <hi>the Lord is the Lord of Hoſts <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pientia eſt ſui deſtructiva,</hi> force without wiſdome will deſtroy it ſelfe.<note place="margin">Eſay. 3<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> Therefor Rabſak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h joyneth counſell and ſtrength together, and Ariſtotle wiſdome, riches and power, and deſcanteth that upon them; men thinke they have quickly wiſdome enough, but power and ri<g ref="char:EOLhyphen"/>ches never enough, whereas too much either of riches or power is troubleſome, or at leaſt unprofitable: But a man can never have too much wiſdome. That po<g ref="char:EOLhyphen"/>wer wee thinke wee have wee cannot claime as ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> owne, it is Gods right, ſtrength is in the Hoſt whereof God is the Lord,<note place="margin">P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a. 4.28.</note> 
+               <hi>In the multitude of people is the Kings ho<g ref="char:EOLhyphen"/>nour, but the want of the people is the deſtruction of the Prince;</hi> it is the Lord that hath hearts of people in his hand, he maketh them ſubject to their Governours, and mooveth them againſt their Rulers, he uniteth and di<g ref="char:EOLhyphen"/>videth them in Court, in Councell, in field: when he hath a purpoſe <hi>to daſh them one againſt another,</hi> he doth divide them;<note place="margin">Ier. 13.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.14</note> 
+               <hi>I will fill all the Inhabitants of the Land, the Kings that ſit upon Davids Throne, and the Prieſts and the Prophets, and all the Inhabitants of Jeruſalem with drunkenneſſe. And I will daſh them one againſt another, even the Fathers and the Sonnes together, ſaith the Lord: I will pity nor spare, nor have mercy, but deſtroy them.</hi> He can make ſuch diviſions that no unity of inte<g ref="char:EOLhyphen"/>reſt, of condition, of affinity, or conſaguity can pre<g ref="char:EOLhyphen"/>vent,
+<pb n="12" facs="tcp:160243:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:160243:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:160243:12"/>he can divide Kings and Subjects, Subjects and Subjects, Kings and Lords, Kings and Commons, Lords and Commons, Lords and Lords, Commons and Com<g ref="char:EOLhyphen"/>mons, Father and Son, Brother and Brother: where ſtill note that the neerer the conjunction the more dangerous the diſcord. That ſome differences ſhould a<g ref="char:EOLhyphen"/>riſe among the people, is not wonderfull, the ordinary courſe of juſtice doth heale them, that ſome greivan<g ref="char:EOLhyphen"/>ces ſhould ariſe betweene the King and the Commons is not ſtrange, it is the buſineſſe of a Parliament to re<g ref="char:EOLhyphen"/>dreſſe them: Then my Lords had you a call from God by the duties of your places, to have been the inſtru<g ref="char:EOLhyphen"/>ments of unity, then ſhould you have made uſe of your learning to have reconciled them, then you had uſe for Divinity, Law, Pollicy, Inſtice, Power, a little of all theſe in your hands would have ſet all things right, if yee and the King had then beene tyed together with the bonds of Chriſt, yee might have ruled him, and contented the people. But inſteed of reconciling the difference betweene them, yee alſo fell at odds among your ſelves: Parliaments doe expect ſome difference, the firſt worke the Commons uſe to doe is to repre<g ref="char:EOLhyphen"/>ſent their greivances unto your Lordſhips, from whom by the very intendment of the Law they doe expect redreſſe. You by your places as Councellors to the King, and Judges of the people having power over both, ſhould have acted the parts of good reconcilers; but this iron rod of Gods diſpleaſure fel on you alſo, the very Phiſition had got the plague. You likewiſe were divided among your ſelves: I blame you not, I rather pity you, your power was broken by the iucroach<g ref="char:EOLhyphen"/>ment of former Princes, you were defrauded of your learning here required, by diſcontinuance of Parlia<g ref="char:EOLhyphen"/>ments; your education &amp; honour among the people by Courtſhip: Kings and Commons have heretofore joy<g ref="char:EOLhyphen"/>ned
+<pb n="15" facs="tcp:160243:12"/>together to breake the power of Lords, and now they fall out, the Lords have not power to helpe them.</p>
+            <p>And now I take up the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of my Text as applicable to this purpoſe, where I crave leave to ſpeake to your Lordſhippes in the language of my Text.</p>
+            <p>It had beene very good, that the King, and your Lordſhips had alwaies beene wiſe and learned enough to have beene alwaies under the yoke of Chriſt,<note place="margin">Pſal 72. from 1. to 15.</note> never to have conſulted any thing againſt God and Chriſt,<note place="margin">
+                  <hi>Mach. Praneſpag.</hi> 36.</note> never to have departed any thing from the wayes of God and Chriſt, the wayes of judgement and juſtice, I meane which are his wayes. That Turkiſh, cutlandiſh diſtinction found in Machiavil of <hi>civilis &amp; ſoluta poten<g ref="char:EOLhyphen"/>tia</hi> which is power above Law, and by Law, had not been miſconſtrued, and made uſe of upon all occaſions in the Kings name at Court in former times: I wiſh it had been the manner of our Kings alwaies to have ru<g ref="char:EOLhyphen"/>led by the poſitive Lawes as far as the juſtice of them would any wayes extend, and when any thing of un<g ref="char:EOLhyphen"/>juſtice did fall upon the letter of the poſitive Law that ſhould be reformed by the Law of God, and the uni<g ref="char:EOLhyphen"/>verſall Law of nature, that had not been done by a ca<g ref="char:EOLhyphen"/>binet Councell, but a Councell of State in Parliament: but that time is paſt, many things have beene done by prerogative above Law, I will not ſay any thing hath beene conſulted by King, Lords, and Commons againſt Chriſt; I feare ſome things have beene done with or without publique conſent that ſhould not, I judge by the event as every good Chriſtian ſhould when God is diſpleaſed: Yet now if <hi>King and Lords would be wiſe and learned,</hi> yee might turne away the wrath of God, and keeping off the <hi>iron rod from da ſhing you all in perces,</hi> if not, it is to be feared the <hi>iron rod</hi> is in the fire to take a new hardning.</p>
+            <pb n="16" facs="tcp:160243:13"/>
+            <p>The diviſion that hath been hitherto, hath on both parts been grounded on <hi>verum</hi> and <hi>veri ſimile,</hi> the King on the one part, the Parliament on the other, one for prerogative, the other for right and intereſt, both plea<g ref="char:EOLhyphen"/>ding Law: the King pretending all ought to follow him, the Parliament them, and all by Lawes, take heed of a ſubdiviſion among you, where no party doth or can pretend Law, for by the ſame reaſon God may juſtly bring a ſubdiviſion among you, untill yee come to utter deſtruction; for let any wiſe man conſider when wars will ceaſe, if the victorious party ſhall ſet up new Principles, and make new Quarrells: you have fought for liberty and common right according to the Lawes of the Kingdome, if your victories ſet you upon higher points, and yee will have all the Lawes of the Kingdome altered <hi>pro Imperio,</hi> while the ſword is in your hand, this is certainly a new cauſe, and if it ſhould breed a new quarrell (which God forbid) remember I pray you the <hi>iron rod</hi> is in the hand of Chriſt, and not yours, <hi>God is the Lord of Hoſts,</hi> and you ſhall ſee it if yee have much experience in war, that God which hath owned your cauſe that was without controverſie juſt, if yee raiſe a new quarrell upon a new cauſe, upon grounds not knowne and ſtated in the world, may de<g ref="char:EOLhyphen"/>ſert you in your new cauſe: it was not the wiſdome of the Parliament, but the juſtice of the cauſe, and the hand of God that hath helped you hitherto, you know not what helpe the colour and opinion of law did you in your cauſe, if once a war ſhould ariſe without any colour of Law: if Machievills principle concerning the power of Kings ſhould be drawne downe to the people, that they had power without Law, that, as it were leſſe regular, ſo it would be more cruell; neither the Authority of the King nor of the Parliament would ſhelter any, but all would be <hi>daſhed in peeces with this i<g ref="char:EOLhyphen"/>ron
+<pb n="17" facs="tcp:160243:13"/>rod; Be wiſe now therefore O yee Kings, be learned yee that be judges of the earth;</hi> wiſdome is of ſpeciall uſe (in conſultations) for Kings and Lords, the greateſt honour to them in the world is ſo to deliberate in their publique meetings, that they may have cauſe to re<g ref="char:EOLhyphen"/>joyce in the wiſedome and juſtice of their conſultations; to vote one thing to day, another thing to morrow, is an argument of the greateſt weakeneſſe in the world; yet if the weakenes be in the former it muſt be amended by a wiſer, better to be wiſe now, then never: I will not lay the ſuppoſition of my Text upon your Lordſhips; I will not ſay yee have conſulted any thing againſt Chriſt, but the counſell of my Text, I will, and that in the words of <hi>Fabritins</hi> and <hi>Muſoulus:</hi>
+               <note place="margin">* <hi>Fabritius, ſi ſorce quid finiſtre tenta<g ref="char:EOLhyphen"/>verint adver ſus Chriſtum &amp; Reg<g ref="char:EOLhyphen"/>num ejus patient<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r tunc ſe, evecari ab errore &amp; pirverſis inſtitutu ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, (&amp; paulo ante) ſibi ca<g ref="char:EOLhyphen"/>veam a temerari<g ref="char:EOLhyphen"/>is, conſiliis, &amp; mo i<g ref="char:EOLhyphen"/>titionibus contra Chriſtum &amp; Reg<g ref="char:EOLhyphen"/>numejus, ut erudi<g ref="char:EOLhyphen"/>tio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>em &amp; caſt ga<g ref="char:EOLhyphen"/>tionem admittant ex verbo Dei. Muſculus in lo<g ref="char:EOLhyphen"/>cam, &amp; nunc in<g ref="char:EOLhyphen"/>quit cum Regnum Chriſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ad hunc mo<g ref="char:EOLhyphen"/>dum comparatum ſit, nt non ſolum im<g ref="char:EOLhyphen"/>poſſibtle ſit quod conamim, ſed vo<g ref="char:EOLhyphen"/>bit exittoſum eti<g ref="char:EOLhyphen"/>amſihactenus deſi<g ref="char:EOLhyphen"/>puiſti tamen vel nune taadem niſi perirejuvat muta<g ref="char:EOLhyphen"/>ta ſententia reſci<g ref="char:EOLhyphen"/>piſcite &amp;c. Nam alioqui quod puta<g ref="char:EOLhyphen"/>tu vos reguis veſtris per id conſulere quod Chriſto do<g ref="char:EOLhyphen"/>mino repubnatis owniu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> eſt ſtule<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſſimum.</hi>
+               </note> If Kings and Judges of the earth at any time have attempted any thing againſt God and Chriſt, they would ſuffer themſelves to be called back from their errour and perverſe purpoſes [and before] that they would take care of raſh Counſells and endeavours a<g ref="char:EOLhyphen"/>gainſt Chriſt and his Kingdome, that ye admit of inſtructi<g ref="char:EOLhyphen"/>on and reproofe from the word of God, <hi>Muſculus:</hi> And ſeeing the Kingdome of Chriſt is ſo ordered, that it is not only unpoſſible that yee intend againſt it, but it is deadly to your ſelves, although you have hitherto beene unwiſe; yet now at laſt repent, unleſſe you will periſh, for it is the fooliſheſt thing in the world to thinke yee ſhall ſettle your owne Kingdomes by deſtroying his.</p>
+            <p>But leſt ſome may raiſe a ground for inconſtancy or departing from deliberative conſultations, which in plaine termes is to vote one thing, and doe another, or to be un<g ref="char:EOLhyphen"/>conſtant in your votes<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, becauſe the Pſalmiſt doth charge <hi>Kings and Judges to be wiſe, now after they had voted and conſulted, Kings, Nobles, and People and were all agreed.</hi> My Text affordeth no further warrant for change, but when yee have voted againſt God and Chriſt, then indeed it is high time to unvote that againe; the Holy Ghoſt doth
+<pb n="18" facs="tcp:160243:14"/>not call upon them after conſultation <hi>to be wiſe</hi> without cauſe, and ſo I come to the ſecond circumſtance: therefore certainely it is an unwiſe thing to change a vote without cauſe, my Text which is the Commiſſion by which I preach at this time, doth require you to be wiſe after con<g ref="char:EOLhyphen"/>ſultation, <hi>when yee have conſulted any thing againſt Chriſt,</hi> therfore becauſe it is againſt Chriſt, ye may have other cau<g ref="char:EOLhyphen"/>ſes to alter a vote ſometime, but I have Commiſſion from God to charge you with alteration in this caſe. And let me tell you to alter any thing is a weakeneſſe either in the act of alteration, or in the thing that is amended; if without cauſe, it is folly, if for a wicked cauſe, it is abominable; If ye have at any time voted any thing for Gods glory, and publique good, to alter that for a friend, is abominable.</p>
+            <p>I have yet another uſe of information for your Lordſhips, whi<hi rend="sup">ch</hi> is perſonal &amp;, therfore belonging to this point. That even Kings &amp; Princes, Kings &amp; Judges of the earth, in the places, of Kings &amp; Judges of the earth muſt be under the bounds and rules of Chriſts Kingdome; or otherwiſe why ſhould the Pſalmiſt have an eſpeciall eye on the<g ref="char:cmbAbbrStroke">̄</g> in the eſta<g ref="char:EOLhyphen"/>bliſhing of Chriſts Kingdom; you ſee God doth call upon Kings and Judges of the earth, and that becauſe he hath ſet up the Kingdome of Chriſt upon Mount Sion: ſome refer all this honour required to the Kingdome of Chriſt, unto the times after the calling of the Jewes. I willingly grant that the glory of Chriſts Kingdome ſhall be more conſpicuous after that then before;<note place="margin">Rom. 31.12.</note> 
+               <hi>if the fall of them be the riches of the world, and the deminiſhing of them be the ri<g ref="char:EOLhyphen"/>ches of the Gentiles, how much more ſhall their fulneſſe?</hi> But God hath given Chriſt <hi>all power both in Heaven and Earth</hi> already,<note place="margin">Mat. 28 18.</note> even over all the Kingdomes of the earth, even from the time of his reſurrection,<note place="margin">Ephe 1.</note> 
+               <hi>when he raiſed him from the dead, and ſet him at his owne right hand in beavenly pla<g ref="char:EOLhyphen"/>ces, far above all Principallity, and power,</hi> unto the end of 22 verſe, therefore doth God here command Kings <hi>to kiſſe
+<pb n="19" facs="tcp:160243:14"/>the' Sun.</hi> [That is a note of ſubjectio<g ref="char:cmbAbbrStroke">̄</g> to the Son of God] threaten them with the <hi>iron rod,</hi> charge them with care not to offend his Son; if Kings had nothing to doe in the Church of God, they might plead againſt this charge; wee knowe wee are thy Creatures, and therefore wee are ſubject to thee as God, and the ſon as the ſecond Perſon in the Trinity, but as thou haſt ſet him upon the holy hill of Sion, as he is the head of the Church, ſo his iron rod is nothing elſe but the cen<g ref="char:EOLhyphen"/>ſure of the Church; wee may give ſome reſpect to it as Chriſtians, but as Kings wee ſhall be bold to call them in queſtion that uſe it, if they be too bold with it.</p>
+            <p>Againe, it may be wondred at, why when the King<g ref="char:EOLhyphen"/>dome of Chriſt was ſet up, the Prophet did give no charge to the Biſhops or Presbyters, that he had not ſaid be wiſe now O yee Biſhops, O ye Presbyters, and Elders of the Church, but <hi>Kings and Judges of the earth,</hi> putting no difference betweene the Church, and the earth; certainely our Expoſitors did finde this want, and therefore Brentius ſaith, you ſee by theſe verſes,<note place="margin">
+                  <hi>Vides autem ex hu v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſiculu non tantum E<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſcope<g ref="char:EOLhyphen"/>rum ſed etiam re<g ref="char:EOLhyphen"/>gum &amp; prin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ipum offierum offe us cog<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e vera Doctrinita Eccle<g ref="char:EOLhyphen"/>lia C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſts, &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<g ref="char:EOLhyphen"/>rent ut tantum; privatimapp p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>tatem ſectentor, ſed etiam at popu<g ref="char:EOLhyphen"/>lus Deumrecte co<g ref="char:EOLhyphen"/>lat.</hi> Doway notes.</note> that it is not only the duty of Biſhops, but alſo of Kings and Princes, that they know true Doctrine in the Church of Chriſt, and have a care not only that they privately follow piety, but that the people alſo wor<g ref="char:EOLhyphen"/>ſhip God aright; you ſee he bringeth in Biſhops, not by the Authority of this Text, yet by the Text he is in<g ref="char:EOLhyphen"/>forced to charge the care of the Doctrine of the Church upon Kings and Judges: and the Doway notes on this Pſalme ſay Chriſtian Kings are inſtructed to know, that it is the duty of Kings to defend the Church againſt Hereriques, and after it is the property of A<g ref="char:EOLhyphen"/>poſtates to favour Heretiques, to nouriſh diſſention, to overthrow the Church: Note cheriſhing Hereſie is to maintaine diſcention, that is a plot upon the
+<pb n="20" facs="tcp:160243:15"/>Church will overthrow the Church, let the Common<g ref="char:EOLhyphen"/>wealth looke to her ſelfe, it ſhall not wholly eſcape.</p>
+            <p>But I muſt but give you a taſt of this point; if I ſhould enter into the polemicall part of it, I ſhould de<g ref="char:EOLhyphen"/>fraud you of the charge, which is the ſubſtance of the Text; I come therefore to the charge, which is, firſt, to <hi>Kings, be wiſe,</hi> ſecondly, to <hi>Juoges, be learued.</hi>
+            </p>
+            <p>And firſt of the charge to Kings is <hi>intelligite,</hi> not <hi>ſapite,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> now this <hi>intelligite</hi> is underſtand Principles, that is, ſuch truthes that all men (being propoſed) would conſent to, and imbrace, if not by aſed by luſt; but this may ſeeme too naturall, and not any morall vertue, nor properly the matter of an exhortation; men doe not uſe to charge men to be tall or beautifull, or yong, but valiant, and vertuous, which have influence upon the will.<note place="margin">Butidor <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.c, 11.</note> This the learned Moraliſts doe thus de<g ref="char:EOLhyphen"/>termine, that to know and conſent to ſuch truth as men by nature can eaſily grant, is no vertue, but to know them ſo as to adheare to them without feare a<g ref="char:EOLhyphen"/>gainſt all ſophiſtications, and temptations, that can be brought to the contrary; that is a vertue when by the actuall underſtanding of known truthes, the minde of ma<g ref="char:cmbAbbrStroke">̄</g> is cauſed to adhear firmly to indemonſtrable prin<g ref="char:EOLhyphen"/>ciples, ſuch as no rationall man can deny in nature, nor Chriſtian in Chriſtianity: and thus much Pagnin doth affirme of the Originall word tranſlated here <hi>intelli<g ref="char:EOLhyphen"/>gite,</hi> firmely adheare to know Principles of juſtice and truth: ſuch a carriage as this in a King is enough for the duty of a King to enable him by the helpe of his Lords to redreſle all former miſcarriages; ſo as the Lords be ſuch as they ſhould be: Kings yee ſee are re<g ref="char:EOLhyphen"/>quired to underſtand, that cannot be ment of the natu<g ref="char:EOLhyphen"/>rall power to underſtand, a man may know his Ma<g ref="char:EOLhyphen"/>ſters will: and not doe it, this maketh him the worſe, and his maſters will never a whit the better done, but
+<pb n="21" facs="tcp:160243:15"/>it muſt be underſtood of the intellect which is a mo<g ref="char:EOLhyphen"/>rall vertue firmely to adheare to knowne and agreed on truthes, to love truth becauſe truth, and ſtand firme to that without reſpect of perſons, or to their owne honours; thus you ſee the generall na<g ref="char:EOLhyphen"/>ture of that intellect here ſpoken of: But as it is re<g ref="char:EOLhyphen"/>quired of Kings, and as it ſtands in this Argument, <hi>be wiſe now therefore O yee Kings,</hi> becauſe that God hath ſet his King upon his holy Hill of Sion; becauſe he is of that power that <hi>he can daſh all the Nations of the earth in peeces with a rod of iron,</hi> when he is diſpleaſed with the; therfore <hi>be wiſe,</hi> which is no more but under<g ref="char:EOLhyphen"/>ſtand your owne condition in reference to Chriſt; you muſt take your ſelves for his ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aves, as bound with his cords, which is the deſcription of a ſlave, to be whloly at the will and pleaſure of another, not in any ſuch con<g ref="char:EOLhyphen"/>dition, as if any thing of your owne will or liberty might concur in the things of God, they muſt know that Chriſt is their Maſter, and they muſt make it the end of all their Government, to ſerve Chriſt of all their conſultations, to pleaſe him, and doe that which may advance his Kingdome, and not adde a<g ref="char:EOLhyphen"/>ny thing of their owne to the ſervice of Chriſt, nor ſeeke their owne advancement by Religion, but Chriſts, and this doth planely appeare to be the ſence of the words in this Argument. For the Holy Ghoſt doth lay downe this in the premiſes <hi>that Kings, and Nobles, and People wereall in a rage,</hi> they conceived that God and Chriſt did reſtraine them of their liberties, take away the honour of the Kings power, of the Nobles priviledge, of the People in that they might not have the ſettlement of their Religion as they pleaſed for God and Chriſt but they would binde them up, and reſtraine them from making Lawes againſt them; here is a quarrell picked
+<pb n="22" facs="tcp:160243:16"/>with God and Chriſt, wherein God telleth them how they are like to ſpeede if they looke not to it, Chriſt is their King, nay he is Gods King, and their Maſter, they are not his Subjects only, but his ſervants: Therefore ſeeing the power of Chriſt is ſo abſolute over the Sons of men, the advice to Kings is to underſtand their owne condition in reference to Chriſt; If any ſtrive with Chriſt for prerogative, it is likely to be Kings, many Kings have uſurped ſuch power over the people of God as is due only to Chriſt; nay few men of po<g ref="char:EOLhyphen"/>wer have rightly underſtood their owne condition in reference to Chriſt, which thing is here required of Kings, leaſt <hi>they be broken in peeces.</hi>
+            </p>
+            <p>That Kings and all ſuch as act as Kings in the exe<g ref="char:EOLhyphen"/>cution of humane Law,<note place="margin">Doct.</note> muſt underſtand what their owne condition is in reſpect of Chriſt, and act accor<g ref="char:EOLhyphen"/>ding to that underſtanding: That is, they muſt firmely adheare to this as an undeniable principle, that they muſt receive the Goſpel as the commands of Chriſt; ſo as Chriſt doth require them without any limitati<g ref="char:EOLhyphen"/>ons, reſtraints, or circumſtances ariſing from their own wills.</p>
+            <p>Now for the rule of our underſtanding, the princi<g ref="char:EOLhyphen"/>ples of Chriſtianity are contained in the word of God by which wee muſt regulate all our knowledge as it is ſpeculative,<note place="margin">Thomas Aquin. 22.47 6. <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> habet in o<g ref="char:EOLhyphen"/>perabilibus, ſicut princeptum in spe<g ref="char:EOLhyphen"/>culativis.</hi>
+               </note> what Principles are to our underſtanding that ought to be our end in practice; ſo wee muſt make it the end of all our actions to walke by Principles contained in the word of God; what is grounded on the word of God, that wee muſt firmely adheare to; in matters of Religion we muſt take all argumments that are againſt Scripture from nature, <hi>bonum publicum,</hi> ad<g ref="char:EOLhyphen"/>vancement of the Gentry, freedome of the Subject, ho<g ref="char:EOLhyphen"/>nour of the Lords, prerogative of the King, to be the ſophiſtications I told you of, againſt which Kings
+<pb n="23" facs="tcp:160243:16"/>ought to confirme themſelves by continuall meditati<g ref="char:EOLhyphen"/>on on the word of God, and actuall conſideration of of their owne condition in reſpect of Chriſt.</p>
+            <p>Reaſons, why Kings and ſuch as act by ſupreame Authority muſt know that Chriſt is their King, as in<g ref="char:EOLhyphen"/>deed he is <hi>King of Kings, and Lord of Lords,</hi>
+               <note place="margin">1 Tim. 6 15.</note> and act as his Subjects; Nay their Lord, and they muſt obey his commands as comming from his will without any concurrence of our wills, are three.</p>
+            <p>Firſt, the commands of Chriſt have the ſanction or penalty of eternall condemnation annexed to them that ſhall be inflicted on the tranſgreſſors which no power on earth can reſiſt; the power and ſtrength of a<g ref="char:EOLhyphen"/>ny Authority is in the ſanction where men can ratifie commands with ſmall penalties the tranſgreſſion is leſſe terrible, and the command leſſe abſolute; there<g ref="char:EOLhyphen"/>fore is the power of a King nothing in comparriſon of Chriſts. <hi>Feare not him that can kill the body,</hi>
+               <note place="margin">Luk. 12.4.</note> 
+               <hi>and after that hath no more that he can doe;</hi> but Chriſt can doe more, he can <hi>render vengeance in flaming fire on them that knowe not God, and obey not the Gospel of Jeſus Chriſt,</hi>
+               <note place="margin">2 Theſ 1.8.9.</note> 
+               <hi>who ſhall be puniſhed with everlaſting deſtruction from the preſence of the Lord:</hi> See men muſt obey the Goſpel of God, or ſuffer eternall puniſhments, and this reacheth to Kings as well as others; this Goſpell muſt be obeyed, it is the command of Chriſt,<note place="margin">Mat. 28 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> 
+               <hi>goe teach whatſoever I command you.</hi>
+            </p>
+            <p>Secondly, Kings muſt know themſelves abſolutely under the commands of Chriſt, becauſe he can execute his owne Lawes by his owne power, if he could not execute his Lawes without the conſent of Kings, then their conſent were neceſſary; but he doth not go<g ref="char:EOLhyphen"/>verne as the Kings of the earth doe by a conſenting partie, having no naturall, but morall power over their wills, they can incline them by acts of love, and
+<pb n="24" facs="tcp:160243:17"/>with the helpe of the conſenting party move the diſ<g ref="char:EOLhyphen"/>ſenting by acts of terrour:<note place="margin">Pro. 14.28.</note> 
+               <hi>In the multitude of the people is the Kings honour,</hi> his power is naturally reſident in their perſons, politiquely in their union that is kept and preſerved by Lawes, prudentially by his virtuous ad<g ref="char:EOLhyphen"/>hearing and acting by thoſe Lawes. But God and Chriſt that ſitteth at the right hand of God, ruleth by his owne power, as in the ſame argument it doth ap<g ref="char:EOLhyphen"/>peare: the Pſalmiſt doth not ſay he will bring Angels from Heaven, though a few of them would quell all the power on earth; but the Son ſhall doe it himſelfe with the <hi>rod of iron</hi> in his owne hand, and the Prophet telleth us <hi>his owne arme ſhall rule for him:</hi>
+               <note place="margin">Eſay. 40.10.</note> God can worke upon the hearts of men, <hi>phyſice</hi> immediately upon the will, and make them that worke deceitfully doe his worke;<note place="margin">Ier. 48 10.</note> they that doe the worke of God deceit<g ref="char:EOLhyphen"/>fully, ſhall have a curſe for their labour, but the worke ſhall be done though they thinke not ſo, God maketh them act what they meane not,<note place="margin">Eſay. 10 7.</note> yea, contrary to their meaning.</p>
+            <p>Thirdly, Kings muſt underſtand their owne condi<g ref="char:EOLhyphen"/>tion in relation to Chriſt, that nothing of their owne will muſt enter into, much leſſe ſway their actions of Religion; if they doe ſway their Religion by their owne wills, their Religion then is nothing elſe but policy, and that will make God angry, <hi>laugh them to ſcorne, diſappoint their purpoſes, and breake them in peeces;</hi> I told you before that Chriſtian Practice muſt make Chriſtian Principles, the ends of all their actions; they muſt profeſſe Religion to honour Chriſt, and not them<g ref="char:EOLhyphen"/>ſelves, to doe the minde of Chriſt, and not their owne wills; it is plaine, if once Princes uſe Religion to o<g ref="char:EOLhyphen"/>ther ends, then the glory of God, they underſtand not what Religion is, what Chriſt is, what they are, and then they may quickly anger him, and ruine them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="25" facs="tcp:160243:17"/>
+               <hi>He that ſinneth againſt God wrongeth his owne ſoule.</hi>
+               <note place="margin">Pro. 8 36.</note> This was Jeroboams Religion when he was newly made King over ten Tribes by revolt from Rhehoboam.<note place="margin">1 King. 12.27.</note> It was <hi>in commune bonum,</hi> for the publique good of his Kingdome, that his people ſhould be kept from going up to Jeruſalem to worſhip, where Rhehoboam their former Lord (from whom they had revolted) reigned. Jerobo<g ref="char:EOLhyphen"/>am, ſaid they, will kill me, and returne to their Maſter; all the world would have judged this a wiſe act in Jeroboam; but by this meanes he changed the ſacrifice, and the Prieſthood, which was his ruine. Jeroboam would make Religion ſtoope to his honour and ſafety, and by it diſ<g ref="char:EOLhyphen"/>pleaſed God, for which his Poſterity was rooted out. This was Abſalons Religion,<note place="margin">2 Sam. 15.7.</note> he meant to get the Kingdome from his Father; <hi>but asked his Father leave to pay his vow which he had vowed to the Lord in Hebron.</hi> You ſee Abſa<g ref="char:EOLhyphen"/>lon ſought to promote himſelfe under the pretence of Religion, and proſpered accordingly; but I come to the Application.</p>
+            <p>Uſe of information, that Kings that underſtand not themſelves the ſervants of Chriſt, are miſtaken in their intellect, though in reſpect of the goodneſſe and kindneſſe of God, wee are brethren to Chriſt is friends, and all fa<g ref="char:EOLhyphen"/>vour is conferred on us; yet muſt the greateſt of the Princes of the earth acknowledge themſelves ſo under him, that his wrath kindled againſt them will be their de<g ref="char:EOLhyphen"/>ſtruction; that their duty is to reſpect and honour Chriſt, and endeavour ſo to receive and embrace the government of Chriſt, as to frame the hearts of their Subjects to the knowledge and obedience of the Goſpel of Chriſt, <hi>ea reſ<g ref="char:EOLhyphen"/>publica eſt faelix ubiregit Philoſophia,</hi> ſaith the Philoſo<g ref="char:EOLhyphen"/>pher; <hi>That Kingdome and Nation that will not ſerve thee,</hi>
+               <note place="margin">Iſay. 60.12.</note> (ſaith the Prophet) <hi>ſhall periſh.</hi>
+            </p>
+            <p>Exhortation to Kings, and thoſe that by the duty of their places, ought to adviſe the King for his honour, to la<g ref="char:EOLhyphen"/>bour
+<pb n="26" facs="tcp:160243:18"/>that his Majeſty may act according to theſe princi<g ref="char:EOLhyphen"/>ples, that he might convert thoſe undeniable truths of Gods word which they cannot deny, unto the ends of his actions; wee ought all of us to looke on the publique actions of the King, as ſuch, in which all our good is much concerned: and heere I ſhall crave leave to involve the ac<g ref="char:EOLhyphen"/>ceptation of, and politique uſe that was m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de of Chriſtian Religion in later times, within the miſcariages of the Kings and Princes, and ſhew that the contempt that Court and Countrey had of Religion, and Chriſt, was the cauſe of this <hi>iron rod</hi> that is heere among us, that in conſiderati<g ref="char:EOLhyphen"/>on thereof, the like may be avoyded for the time to come.</p>
+            <p>The riſe and fountaine of all hypocriſie is, when Prin<g ref="char:EOLhyphen"/>ciples of Chriſtian Religion are pretended, but they are not made the ends of their actions that did pretend them.</p>
+            <p>There was great pretence of honour done to the Cler<g ref="char:EOLhyphen"/>gy in the Court of England:<note place="margin">2 Theſ. 5.13.</note> were the Biſhops ſo much honoured at Court, that Chriſt might be honoured in them, that Religion might be advanced by them: no ſuch matter, but that they might be popular Orators to draw over the people to put on the yoke of ſlavery, and that hath drawne ſo much envy of the people on them. The Principle notwithſtanding that was pretended, was a good Principle;<note place="margin">1 Ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 5.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 
+               <hi>That he that laboured in the Word and Doctrine, is worthy of double honour;</hi> but the honour muſt be joyned to the worke, that the worke may be done; certainely it is the duty of Chriſtian Kings and Princes, to uſe all meanes that come to their hands to in<g ref="char:EOLhyphen"/>courage the choice of men for parts and education to be<g ref="char:EOLhyphen"/>come Miniſters, to make ſuch publique proviſion for Mi<g ref="char:EOLhyphen"/>niſters, that men may by that obtaine more honour, more maintenance; by it, then by any other publique pro<g ref="char:EOLhyphen"/>feſſion, for my part I cannot preſcribe rules to the wiſdome of a State; if Chriſt be an abſolute King, his Lawes muſt be obeyed: that place of honour in Timothy
+<pb n="27" facs="tcp:160243:18"/>mentioned to be given to them that labour in the word, is to be underſtood of maintenance, as appeareth by the argument of the place, <hi>thou ſhalt not muzzell the mouth of the Oxe that treadeth out the corne.</hi> Such private perſons as did receive the Goſpel in primitive times muſt make them that teach them partakers of all their goods,<note place="margin">Gal. 6 6<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> all good things: ſuch Nations as have received Chriſt, have made large and honourable proviſion for the propogation of the Goſpel, beſides that of Tythes, alwayes accounting that too little: God in the old Law provided publique main<g ref="char:EOLhyphen"/>tenance for his Prieſts, Cityes, and Suburbs, and Sacrifi<g ref="char:EOLhyphen"/>ces, and Oblations, beſides the Tythes; and hath com<g ref="char:EOLhyphen"/>manded maintenance to be given to the Miniſters of the Goſpel under the name of honour: honour is a publique reward, and can have no publique being without honou<g ref="char:EOLhyphen"/>rable maintenance: the Goſpel is ſent to Nations, and Na<g ref="char:EOLhyphen"/>tions muſt receive it, and honour the bringers of it in a nationall way; as for that diſtinction of civill and religions honour, that is a phanſie only to elude the authority of this Text; it is true there is civill and morall honour, but that is nothing but publique and private honour, the King and State muſt give publique and civill honour or none at all; ſo that Kings and States cannot receive the Goſpel, unleſſe they honour the meſſengers of Chriſt (ac<g ref="char:EOLhyphen"/>cording to the command of Chriſt:) not as beggers and private men give honour with cap and knee, but with ho<g ref="char:EOLhyphen"/>nourable maintenance, and command that honour be gi<g ref="char:EOLhyphen"/>ven them from private Subjects: That honour is due to the worthy is the Law of nature, who are worthy amongſt Chriſtians, the Holy Ghoſt doth declare: they that labour in the word and doctrine; but note that thoſe which have this honour muſt be ſo imployed about the worke, that the honour may redound to Chriſt, they muſt not ſeeke themſelves in it.</p>
+            <pb n="28" facs="tcp:160243:19"/>
+            <p>But ſee were the Scriptures ſearched into, were they in<g ref="char:EOLhyphen"/>terpreted was the knowledge of God advanced in the the Land, if that maintainance that was beſtowed on Bi<g ref="char:EOLhyphen"/>ſhops, and ſpent rather in the port of a Gentleman or Nobleman had been imployed on Schooles of Divinity, wee need not be beholding to Jeſuits for Comments on the Scriptures, who among many good things whereby they ſweeten their miſchiefe, take all occaſions to ſupplant the truth. But did thoſe Biſhops advance learning and ſtudy of Scriptures? I know I ſhall be cryed downe, they did, and outfaced, that learning did flouriſh to the higheſt degree that diligence can bring it. And therefore now no more care to be taken for learning ſeeing no bet<g ref="char:EOLhyphen"/>ter ſucceſſe of it; but havocke may juſtly be made of all the proviſion that our Anceſtors have made to encourage Miniſters to follow their bookes; this is the common cry of the multitude, yee may ſee what good learning did in the Biſhops time, wee muſt never looke for better from it; therefore downe with it; yet this I ſay, that if the value of but one Biſhopricke were beſtowed on ſeaven honeſt and able Divines that might maintaine a Schoole of Divinity, and the Scriptures interpreted by them ac<g ref="char:EOLhyphen"/>cording to the beſt improvement of humane skill, ſuch ſatisfaction would be given, that the mouthes of thoſe that fill the world with new fancies would be ſtopped, the hard places of Scripture made plaine, unity and piety much advanced, which no one mans skill will ever be able to bring to paſſe, that would make more for the ſafety of the Kingdome then all the forces and power of the ſword.</p>
+            <p>But let it further be examined, whether ever Miniſters of the Goſpel were received by the State, ſo as they were ſent from Chriſt, whether opportunity were given them of free meeting, and communicating their doctrines one ta another, and that the Doctrine that was agreed on,
+<pb n="29" facs="tcp:160243:19"/>were obedientially received by the State: So Chriſt ſent out his Diſciples to teach the Commands of Chriſt, which Commiſſion muſt laſt to the end of the world, giving them this badge <hi>that they ſhould love one another,</hi> ſending them out with his owne authority;<note place="margin">Luk. 10.16.</note> were any Miniſters recei<g ref="char:EOLhyphen"/>ved into this State as Commiſſioners to preach the Goſ<g ref="char:EOLhyphen"/>pel ought? have any ſort of Miniſters beene received as Ambaſſadors from a King to his owne Subjects? were not thoſe Biſhops that were honoured by this State, firſt ſi<g ref="char:EOLhyphen"/>zed to the Princes humour, and good experience had of their ſervile condition, then ſent out to ſtop the mouthes of all that were not fitted to the ſame laſt, not with the commiſſion of Chriſt to preach what he commanded; but with a new Commiſſion to preach what the Prince, and his Commiſſioners ſhould allow: and was all this done with intelligence according to Principles of Chriſtian Re<g ref="char:EOLhyphen"/>ligion? or have not all this ſtriving to keepe the Miniſters of the Goſpel under, come from a more corrupt fountaine that they might not be bold to preach againſt their cor<g ref="char:EOLhyphen"/>ruptions, or lay on the yoke of Chriſt too heavily on the necks of Kings, Princes, and People? or hath not this been the conſultation ſpoken of in the beginning of the Pſalme? let theſe words of the Pſalmiſt, <hi>Let us breake their bands aſunder, and caſt away their cords from us</hi> receive a poſſible ſence, Cornerus ſaith, <hi>theſe bands are the bands of Chriſt, &amp; his Miniſters: &amp;</hi> Martinius ſaith,<note place="margin">Cornerus C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iſti. L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. &amp; Mi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um. Martinius difficil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eſt in ſubmitter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> docend<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s quibus ipſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fectes ju<g ref="char:EOLhyphen"/>dica<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 
+               <hi>it is a hard matter for men to ſubmit themſelves to be taught by them, over whom men conceive themſelves to have power. Let us:</hi> can the Kings of the earth be ſenſible of any yoke of Chriſt, but by the preaching of the Goſpel; how can they caſt off the yoke of Chriſt, but by ſaying to the ſeers ſee not? but by dſepiſing the Miniſters of the Goſpel, and taking order that none ſhould preach, but ſuch as pleaſe them, and in ſuch manner as they pleaſe, was this done to advance Chriſt that preacheth by his Miniſters to
+<pb n="30" facs="tcp:160243:20"/>keepe them under, that they may not boldly ſpeake the minde of Chriſt, nor communicate their Doctrine accor<g ref="char:EOLhyphen"/>ding to their Commiſſion.</p>
+            <p>Let it be conſidered whether Miniſters ever had incou<g ref="char:EOLhyphen"/>ragement to preach the Goſpel without the feare of men: for though it be the duty of a good Miniſter to preach the word notwithſtanding any feare; yet it is the duty of thoſe that receive the Goſpel to ſee that the Miniſters be without feare. <hi>If Timothy come ſee that he may be without feare,</hi>
+               <note place="margin">1 Cor. 16.10.</note> 
+               <hi>for he worketh the worke of the Lord;</hi> were not Biſhops nurſed up to keepe the Miniſters of the Goſpel from ſpeaking boldly in the name of Chriſt: was not this their ſtile: no Biſhop, no King? I never heard no Biſhop, no Chriſt; but had they relyed on Chriſt, and heard Chriſt freely ſpeaking to them out of the Goſpel, he would have kept them ſafer then the Biſhops did; and I dare boldly ſay no honour and freedome given to the Mi<g ref="char:EOLhyphen"/>niſters of the Goſpel, no Chriſt received in that common<g ref="char:EOLhyphen"/>wealth, men dare not ſay Chriſt is proude, a courſe muſt be taken to bring Chriſt a little lower, but Miniſters are proud, they muſt be taken downe, they muſt come under the Gentry: if that be the end of taking downe the Biſhops to make the Clergy below the Gentry, I would faine know by what Principle, muſt wealth needs be of more eſteeme then Religion; but let theſe men ſpeake plaine, and tell us they will bring Chriſt below the Gentry: in<g ref="char:EOLhyphen"/>deede I have heard a Gentleman that had ſome influ<g ref="char:EOLhyphen"/>ence on the placing of a Miniſter in a Countrey Church, ſhould ſay he skorned any Miniſter ſhould be ſo ſaucy as to tell him his faults, and ſurely the carriage of the Gentry have beene ſuch, as if they were above the com<g ref="char:EOLhyphen"/>mands of Chriſt.</p>
+            <p>I cannot but ſay the Clergy as well as other men may have their perſonall infirmities, ſome of them may be proude, but in reference to divers that object pride unto
+<pb n="31" facs="tcp:160243:20"/>them, they may much more truely be condemned of baſe<g ref="char:EOLhyphen"/>neſſe in diſcharge of their duties, then of pride; though I confeſſe that many that were baſe enough where they ſhould be bold, were proude enough where they durſt.</p>
+            <p>It is plaine that Court and Countrey have ever had a deſire to keepe downe the Clergy; partly, for that they ha<g ref="char:EOLhyphen"/>ving fed themſelves fat with the Abbeis, have ever ſince deſired another bit, and partly to obtaine a greater free<g ref="char:EOLhyphen"/>dome to ſin againſt God; but if caſting downe the Mi<g ref="char:EOLhyphen"/>niſters of Chriſt be the ſhaking off the yoke of Chriſt, and keeping them under, that they dare not ſpeake as men in the roome of Chriſt, be the ſin of Kings, and Rulers in this Pſalme, then certainly it hath been the cauſe that ma<g ref="char:EOLhyphen"/>ny have been turned into <hi>potſhards by the iron rod of Chriſt:</hi> and give me leave to call upon Kings of the earth, in the words of my Text.</p>
+            <p>O yee Kings underſtand your owne condition in re<g ref="char:EOLhyphen"/>ſpect of Chriſt, you muſt <hi>ſerve the Lord in feare, and re<g ref="char:EOLhyphen"/>joyce to him with reverence;</hi> All your goods are nothing to Chriſt, but to his Meſſengers that are in the earth; you cannot honour Chriſt but in them that come with the Goſpel, incourage them to ſtudy the Scriptures, and diſ<g ref="char:EOLhyphen"/>charge their duties in the name of Chriſt:<note place="margin">Luk 10.16.</note> if heretofore ye have uſed any meanes to ſtop their mouthes, to keepe them under, either by making them dependant or other<g ref="char:EOLhyphen"/>wiſe, now yet at laſt while there remaine any part of hopes, honours, and perſons unbroken, ſet your hearts to encourage Miniſters in their duties, God will not leave a cup of cold water unrewarded, that is given in the name of a Prophet: what you doe, do it to them in the name of Pro<g ref="char:EOLhyphen"/>phets, not in the name of Servants, Flatterers, Supporters of your States; God hath begun now to ſhew his diſplea<g ref="char:EOLhyphen"/>ſure, there is cauſe therefore you ſhould now underſtand, that is, adhere to the Principles of Chriſtian Religion, and then adviſe with your Councellours the Judges of Judges,
+<pb n="32" facs="tcp:160243:21"/>or Judges of the earth, the graveſt, the moſt interreſted, and intruſted Councell, the Judges in your Parliament. Let your ends be right, grounded on principles that make for the honour of Chriſt, otherwiſe your beſt Councell in the nature of Councell, is worſt in its morall conſiderati<g ref="char:EOLhyphen"/>on. Achitophels counſell that was as from the Oracle of God,<note place="margin">2 Sam 16.23.</note> was morally no better then that an ambitious and trayterous Son ſhould kill a Royall King, and loving Fa<g ref="char:EOLhyphen"/>ther: never refuſe that for the end of your actions, that is repreſented to your underſtanding as an undeniable truth, and then take advice of your greateſt and wiſeſt Counſell, <hi>In the multitude of Counſellors there is ſafety.</hi> If Rhehoboam had followed this advice,<note place="margin">Pro. 15.22.</note> his Kingdome had not ſhrunke from twelve Tribes to two as it did; and now my Text doth charge the King to come to his Parliament, and with them to ſubmit to the yoke of Chriſt; as a Miniſter of Chriſt, I ought to declare the minde of Chriſt; as a Subject to his Majeſty, I ought to ſeeke his advancement, he ſhall thereby obtaine the priviledge of ſuch Kings as are Kings his in the Church of God; this was Davids priviledge that his Kingdome was upon Sion, and hereby God made him <hi>firſt borne higher then the Kings of the earth;</hi> It is a pre<g ref="char:EOLhyphen"/>ferment to a King to be a ſervant to Chriſt, and his only ſafety againſt the diſappointment of his actions,<note place="margin">Pſal. 89.27.</note> and the perill of his perſon.</p>
+            <p>I beſeech your Lordſhips to hearke<g ref="char:cmbAbbrStroke">̄</g> to the ſecond charge of my text, which is your particular portio<g ref="char:cmbAbbrStroke">̄</g>, <hi>be inſtructed ye Judges of the earth,</hi> the charge that lyeth upon you is to be inſtructed; the word ſignifieth <hi>caſtigare,</hi> to bind, inſtruct, compell, correct; which diſcipline, Lawes, bonds, pu<g ref="char:EOLhyphen"/>niſhments,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> your ſelves, that you wander not, and live af<g ref="char:EOLhyphen"/>ter your owne luſts, the diſcipline and correction yee ought to reſtraine your ſelves withall, ought to be ſtreight ſueh as we uſe to children in their tender yeeres, the ſame that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> this yee muſt receive as Children from the
+<pb n="33" facs="tcp:160243:21"/>word of God, <hi>ſubjicite vos reprehenſioni verbi,</hi>
+               <note place="margin">Cajetan.</note> 
+               <hi>Dei</hi> ſub<g ref="char:EOLhyphen"/>mit yourſelves to the reprehenſion of the word of God.</p>
+            <p>From this ſecond part of the charge;<note place="margin">Doct.</note> that if any thing be conſulted and agreed on againſt God and Chriſt, the Nobles and Judges of the earth muſt receive inſtruction, reforme, and amend themſelves, and together with the King ſubmit to the government of Chriſt; but the charge lyeth upon your ſelves in this clauſe, though the conſocia<g ref="char:EOLhyphen"/>tion with the other clauſe require your conjunction; but I am now come to your duty as it ſtandeth ſingly in this part of the charge.</p>
+            <p>Yee ſee my Lords, more is required at your hands, then of the Kings in point of knowledge: yee ought to be the Kings Treaſurers out of which hee ought at all times to draw wiſdome; yee ought to be that multitude of Coun<g ref="char:EOLhyphen"/>ſellours that might make all the Kings purpoſes ſuccesfull; if the King want counſell he muſt repaire to you, if you want it, yee muſt provide it for him, it is the duty of your place; therefore if yee be not learned yee muſt receive inſtruction, if never ſo learned information, if yee be mo<g ref="char:EOLhyphen"/>rally vitious yee muſt amend your ſelves by Lawes, Diſci<g ref="char:EOLhyphen"/>pline, correction; yee muſt uſe your ſelves as men uſe Children, correct your ſelves, or if need be as men uſe madde men, binde your ſelves; rather then wander after unworthy &amp; ſinfull luſts; whoſoever are ignorant, ye muſt be knowing, though corruption of times may lead ſome others into ſwearing, lying, drunkenneſſe, uncleanneſſe, profanneſſe; yet none of all theſe things ſhould be found in you. It is a ſhame that a Chriſtian Lord ſhould not be eminently above unchriſtian and heatheniſh vices, <hi>Her<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s eſt ſupra <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mnem legem humanam,</hi> more vertuous then any humane Law can require: how ſhamefull is it that they ſhould be more vitious then any heathen Law ſhould ſuf<g ref="char:EOLhyphen"/>fer? It is ſufficient for a King to underſtand and walke by principles, ſuch as no man can deny to be truth, to make
+<pb n="34" facs="tcp:160243:22"/>good principles the end of his actions, you muſt helpe him to the meanes which is the act of Councell, when the end is agreed on, Councell muſt finde out the meanes to obtaine the end, and that is properly wiſdome, lear<g ref="char:EOLhyphen"/>ning, and prudence, the ſame word is tranſlated, be learned and amend your ſelves, learning is a great meanes to amend a man; againe it ſignifieth correct or puniſh your ſelves, nothing is ſo ready a way to a<g ref="char:EOLhyphen"/>mend a man as puniſhment, becauſe <hi>prudentia moralis verſatur circa aff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctus,</hi> morall wiſdome is converſant a<g ref="char:EOLhyphen"/>bout af<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ections, which are not mooved with any rea<g ref="char:EOLhyphen"/>ſon, but much with ſtrips, <hi>nihil ſuaſionibus plurimum fla<g ref="char:EOLhyphen"/>gris,</hi> as Moraliſts all agree, and therefore is it that ſuch creatures as are only ſenſitive are not wrought upon by reaſon, but ſtripes only. I ſhall diſtinguiſh the re<g ref="char:EOLhyphen"/>quiſits of a Judge into learning and honeſty,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> both con<g ref="char:EOLhyphen"/>tained in the originall word which commeth from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> hence <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> diſcipline or correction by learning in<g ref="char:EOLhyphen"/>ſtruction threats either active or paſſive.</p>
+            <p>Againe the learning that is required to Judges may be diſtinguiſhed into the learning of inferiour and ſu<g ref="char:EOLhyphen"/>preame Judges, honeſty ought to be common to all Judges, as likewiſe that learning of their owne condi<g ref="char:EOLhyphen"/>tion in reference to Chriſt.</p>
+            <p>The learning of an inferiour or ſubordinate Judge muſt be either habituall, or upon all emergent occaſions capable of new inſtructions.</p>
+            <p>His habituall learning muſt be the knowledge of the poſitive Lawes and cuſtomes of the Kingdome contai<g ref="char:EOLhyphen"/>ning the right of the King and Subject, ſo as they are applicable to continuall practice; he muſt likewiſe know the rules of morall Philoſophy, a ſtudy much neglected in this Kingdome, the Lawyers rather go<g ref="char:EOLhyphen"/>ing by particular preſident, then rules of juſtice (which is rather emporicall then learned) and from particular
+<pb n="35" facs="tcp:160243:22"/>preſident gather an univerſall rule, which is too much uſed for Lawyers Logick, when they are pleaſed to make uſe of it, but they can forſake it for a friend at pleaſure, which maketh the Lawes of England ſo lya<g ref="char:EOLhyphen"/>ble to abuſe, and leave the Judges too great a latitude to doe amiſſe and yet excuſe themſelves, if they walke by a preſident they are excuſed, if they deſert their pre<g ref="char:EOLhyphen"/>ſident, and make new (as in ſome caſes they may and ought) the weakeneſſe of this collection it was done, therefore well done, it was the opinion of theſe Jud<g ref="char:EOLhyphen"/>ges, therefore right, may well excuſe them, whereby the Judges have a latitude to judge, which way they pleaſe without blame; becauſe the ſtudy of the Law is rather by induction then demonſtration, rather by the will of former Judges, then rules of juſtice which are to be found in the learned skill of morall Philoſophy, and ought among us Chriſtians be regu<g ref="char:EOLhyphen"/>lated by Scriptures, with which in matters of juſtice the light of nature doth agree; theſe Rulers of juſtice ought to be the only guide to judges in matters of judgement, to Parliaments in making Lawes; therefore in the Scriptures is juſtice annexed to judement. <hi>Jud<g ref="char:EOLhyphen"/>ges and Officers yee ſhall chooſe,</hi>
+               <note place="margin">Deut. 16.18.</note> 
+               <hi>and they ſhall judge the peo<g ref="char:EOLhyphen"/>ple with righteous judgement.</hi>
+               <note place="margin">Ex. 45.9.</note> 
+               <hi>Let it ſuffice O yee Princes of Iſrael, remove violence and spoyle, execute judgement and juſtice, take away your exactions from my people,</hi>
+               <note place="margin">Ier. 22.3.</note> 
+               <hi>execute judgement and juſtice.</hi> Juſtice is the rule, judgement is the application of it to time and place.</p>
+            <p n="2">2. There muſt be a learning that ought alwaies to be in <hi>fieri</hi> upon emergent occaſions, that is, a diligent care to finde out the fact,<note place="margin">Iob. 29.16.</note> 
+               <hi>that cauſe which I kn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w not I ſought out diligently,</hi> this was the glory of Solomon in caſe of the Harlots, and this muſt be in all Judges high or low.</p>
+            <p n="3">3. There muſt be a ſagacity or quickneſſe in a Judge
+<pb n="36" facs="tcp:160243:23"/>to make application of the Law to the caſe in hand; this is the principall, if not the ſole duty of a Magi<g ref="char:EOLhyphen"/>ſtrate to execute the Lawes, to ſee that all men that ſeeke juſtice may h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve it without partiality; this be<g ref="char:EOLhyphen"/>longeth to a Magiſtrate eſſentially, and cannot be ta<g ref="char:EOLhyphen"/>ken from him while he remaineth a Magiſtrate, <hi>Judex debet habere poteſtatem veritatem formam vim,</hi>
+               <note place="margin">Tollet.</note> that is, he muſt have authority, truth, and forme before, and in judgement, and force following it to put it in execu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The reaſons why Judges ought to have ſuch lear<g ref="char:EOLhyphen"/>ning, are, firſt, becauſe no action can be rationall that is not grounded on ſome Principle of humane under<g ref="char:EOLhyphen"/>ſtanding; God hath given man underſtanding to rule all other faculties of the ſoule; if man ſhall act any thing that is not firſt well digeſted in the underſtanding, that is brutiſh, and therein men act not as men, but as beaſts, and therefore the Scripture doth reſemble thoſe actions of men, wherein they tranſgreſſe the Law of God, and right reaſon to the actions of beaſts,<note place="margin">Pſalm. 32.9. Ier. 5.8.</note> 
+               <hi>Be yee not like Horſe and Mule, which have no underſtanding, They are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fed Horſes, every one neighing after his neighbours wife;</hi> now if all actions ought to be guided by reaſon, or elſe they be beaſtly, the judgements of Judges, if without rule, muſt needes debaſe them far below their condi<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="2">2. That judgement that hath no better ground then a Judges opinion,<note place="margin">Aquin. 22.5 e. 1. <hi>Omni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſcientiae ha<g ref="char:EOLhyphen"/>betur p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r aliqua pr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>pia per ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a.</hi>
+               </note> hath a very fraile foundation: Judges muſt be learned, not willfull and imperious<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but lear<g ref="char:EOLhyphen"/>ning is <hi>habitus acquiſitus,</hi> men are not borne learned, nor can become <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o without diligence and ſtudy; now <hi>ſcience is the knowledge of concluſion, which depend on certaine Principles knowne by themſelves,</hi> which are delivered and received in the ſcience that is ſtudi<g ref="char:EOLhyphen"/>ed, the rules of a ſcience are not uncertaine, lyable to
+<pb n="37" facs="tcp:160243:23"/>miſtake nor ſubject to the wills and affections of men, <hi>qua<g ref="char:cmbAbbrStroke">̄</g> minimum relinquendum non judi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibus propter affectus,</hi> the Lawes ought to be cleere, fully and plainely delive<g ref="char:EOLhyphen"/>red, things may be ſet downe as cleerely in matters of Law, as in any thing: Lawes are not converſant about unknowne motions of Sta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Spheares, nor in the Mathematicall ſpeculations of accidents remote from matter, but the manners and actions of men viſible, ſenſible, apparent actions. Againe they ought to be expreſſed in words whereby men are able to expreſſe their mindes moſt fully; therefore Ariſtotle ſaith,<note place="margin">Quod Lex non po<g ref="char:EOLhyphen"/>teſt exprimere <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quidem po<g ref="char:EOLhyphen"/>teſt.</note> that which the Law cannot expreſſe, that man cannot ex<g ref="char:EOLhyphen"/>preſſe, that cannot be ſayd to be learning, that is con<g ref="char:EOLhyphen"/>tained in the myſtery of one or ſome few mens abili<g ref="char:EOLhyphen"/>ties, but that which is in <hi>praeceptis ſcientiae traditis,</hi> which is made common and publique for every man to ſtudy; ſuch ought the learning of a Judge to be, that it may be rationall, certaine, and not ſubject to luſt:<note place="margin">Thomas Aquin. 12.98.1. <hi>c.</hi>
+               </note> 
+               <hi>Lex bo<g ref="char:EOLhyphen"/>na quia conſonat rationi,</hi> and this the Lawyers profeſſe; the Law is reaſon, but being preſt with this argument, if the Law be reaſon, then men that are not bred Law<g ref="char:EOLhyphen"/>yers muſt underſtand it; they anſwer it is reaſon to him that is learned in the Law, what doth the ſtudy of the Law change the nature of the man? reaſon cannot a<g ref="char:EOLhyphen"/>gree to a man <hi>quatenus,</hi> a Lawyer, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>quatenus,</hi> a man; that cannot be ſaid to be reaſon, which a man cannot underſtand, unleſſe he be a Lawyer; this were to make a Lawyer differ <hi>ſpecie</hi> from another man.</p>
+            <p n="2">2. Reaſon, why Judges muſt be learned, becauſe Judements are matters of the higheſt concernment in the world, and that in two reſpects.</p>
+            <p>Firſt, becauſe they procure the favour or diſplea<g ref="char:EOLhyphen"/>ſure of God,<note place="margin">
+                  <hi>Pro.</hi> 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.3. Eſay. 5.7. and 5<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 15.</note> 
+               <hi>to doe juſtice and judgement is more accepta<g ref="char:EOLhyphen"/>ble to God then ſacrifice,</hi> therefore the Prophet ſaith, that <hi>Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> looked for judgement, but behold oppreſſion; the Lord
+<pb n="38" facs="tcp:160243:24"/>ſaw it, and it diſpleaſed him that there was no judge<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p n="2">2. They are of higheſt concernment to humane ſociety, they are the cauſes of peace and war,<note place="margin">Am<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s 5.6.7.</note> 
+               <hi>Seeke the Lord leſt he breake out like fire and divoure you, ye that turn juſtice into wormwood:</hi> War is the breaking out of the Lord up<g ref="char:EOLhyphen"/>on an unjuſt people: I dare ſay, had the judges walked in judgement according to the petition of right, puniſhed thoſe that firſt tooke monopolies, tunnage and poundage, not exacted, becauſe not granted in Parliament, or the ex<g ref="char:EOLhyphen"/>acters puniſhed in judgement; Shipmony not judged to be Law contrary to Law, it had been impoſſible to have brought the people into ſuch a diſtemper as to fall one upon another; the fault was laid upon the Biſhops and Clergy of the land: I will not excuſe them as far as they had any hand in overſwaying the judges, putting downe the good ones, and ſetting up ſuch as were ſervile, and might eaſier be bent to ſerve the luſt of the Court againſt Law, or as they were active themſelves in arbitrary Courts to the oppreſſion of the people, ſuch as were the High Commmiſſion, Star-Chamber, Councell-Table; but this I dare ſay the moſt immediate cauſes of breach of peace have beene failings in judgement: all failings in judgement are oppreſſions, therefore is judgement oppo<g ref="char:EOLhyphen"/>ſed to oppreſſion. <hi>Judgement ſtood a farre off, he that ab<g ref="char:EOLhyphen"/>ſtained from evill maketh himſelfe a prey. The robbery of the wicked ſhall deſtroy them becauſe they refuſed to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> judgement.</hi>
+               <note place="margin">Pſa. 5.7. and 56.14. Prov. 21.7.</note> Yee ſee the Holy Ghoſt doth plainly affirme, that refuſall to doe juſtice is robbery, and the cauſe of de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p n="3">3. Subordinate Judges muſt be learned that they may diſcerne the flouriſhing of Rhethoricke and falacies in the arguments that are brought againſt the truth, that hee may be able to judge rightly of a cauſe, notwithſtanding the induſtry and ability of an advocate: advocates will
+<pb n="39" facs="tcp:160243:24"/>be ſubtle, and no cauſe can be ſo bad but it will find ſome to plead for it; the divell will be ſure to get as good coun<g ref="char:EOLhyphen"/>ſell as he can, he that pleadeth his cauſe ſhall have a double fee: if the Judge be not learned he will often prevaile, he knoweth if he can but pervert judgement, by what means he careth not, he ſhall promote wickedneſſe, advance his kingdome, and murther men, which is Sathans delight; therefore the Judge muſt bee learned to judge betweene plea and plea;<note place="margin">Deut 17.8.</note> plea againſt plea make matters difficult in judgement; the want of learning to decide them, the cauſe of diviſions; this is the cauſe of civill diſſentions when matters are put in execution with an high hand, before they are peaceable and clearly determined in judgement: I ſhall put you in minde of the great queſtions that were raiſed in the beginning of theſe troubles which were not peaceably and clearly determined in judgement; objecti<g ref="char:EOLhyphen"/>ons were ſent abroad among the people without the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> anſwers, which cauſed diviſions among them.
+<list>
+                  <item>1. Concerning Power.</item>
+                  <item>2. Concerning Law.</item>
+               </list>
+            </p>
+            <p>Whether the King had power to call and break a Par<g ref="char:EOLhyphen"/>liament or no, the Lawyers logick was cleare enough for the King, they had preſidents enough: That the Kings coun<g ref="char:EOLhyphen"/>ſell had an hand in the call, is moſt plaine by the Writ; but whether this counſell were a ſelect counſell of Lords and Commons, ſome Lords, ſome Commoners, Secreta<g ref="char:EOLhyphen"/>ries of State, officers of his Majeſties houſhold, ſuch as he ſhould chooſe, which as to the ſecurity of the Kingdome were as good as none, or the Earles and Barons of the Kingdome, or what power they had in this great buſineſſe the learning of the Law did not determine; the practice of the times did carry all by the will of the King, whereby Parliaments were rendred uſeleſſe to the Subject, and the whole Kingdome lay open to any ſuch violence as evill counſell, ſhould at any time lead the King into. The want of learning in this point was the firſt cauſe of this diſſen<g ref="char:EOLhyphen"/>tion,
+<pb n="40" facs="tcp:160243:25"/>learning could not, and therefore it was put to the determination of the ſword.</p>
+            <p n="2">2. When Parliaments were called, what power the King had, what the Lords, what the people or Commons, what joyntly, what ſeverally, was not cleerely enough de<g ref="char:EOLhyphen"/>termined in the Law, and therefore left to the determina<g ref="char:EOLhyphen"/>tion of the ſword; learning was wanting, and therefore God brought in his iron rod.</p>
+            <p>In matters of juſtice what ought to be adjudged treaſon, what not; how thoſe treaſons mentioned in the Statute, and referred to the Paliament to be determined, ought to be judged, and by whom, the learning of the Law did not cleerely determine, and therefore left to the determinati<g ref="char:EOLhyphen"/>on of the ſword.</p>
+            <p>The learning of the Law did never yet cleerly and pub<g ref="char:EOLhyphen"/>liquely determine between Plea and Plea, in theſe objecti<g ref="char:EOLhyphen"/>ons following, that none ought to be adjudged but by po<g ref="char:EOLhyphen"/>ſitive Law; Secondly, that all Lawes ought to have publi<g ref="char:EOLhyphen"/>cation, none ought to ſuffer for any attempt, except againſt the Kings Perſon, which objections would eaſily have bin anſwered, if the ſtudy of morall Philoſophy had beene well taken into the ſtudy of the common Law.</p>
+            <p>I ſhall only acquaint you with ſome few rules of mo<g ref="char:EOLhyphen"/>ralls concerning theſe points. Firſt, <hi>ignorantia juris uni<g ref="char:EOLhyphen"/>verſalis non tollit peccatum;</hi> that neede no publication, the boy to the ancher and croſſe of the doore hath no place heere, that publication doth belong only to particular Lawes, not univerſall.</p>
+            <p n="2">2. Though ſubordinate Judges may not, yet the ſu<g ref="char:EOLhyphen"/>preame Judge may judge by the univerſall Law, <hi>ſalus po<g ref="char:EOLhyphen"/>puli ſuprema Lex.</hi>
+            </p>
+            <p n="3">3. Attempts againſt the Kings Perſon are only crimi<g ref="char:EOLhyphen"/>nall by poſitive Law, but there the fact is likewiſe treaſon; but where the fact cannot be puniſhed, the attempt muſt by the univerſall Law of ſelfe preſervation as an attempt
+<pb n="41" facs="tcp:160243:25"/>to conquer the Kingdome, change the Government in any Subject muſt be puniſhed, the fact cannot <hi>proſperum &amp; fae<g ref="char:EOLhyphen"/>lix ſcelus virtus vocatur:</hi> when ſuch queſtions as theſe were on foote, the learning of the Law ought to have been cleere, the Judges ſhould have been learned, but they were not, and therefore God was angry, its now therefore high time for Judges to be wiſe, there hath many miſeries hap<g ref="char:EOLhyphen"/>pened to us of late, which are yet hard to be remooved for want of learning, and therefore there is great reaſon all meanes ſhould be uſed to get it; there is great cauſe there<g ref="char:EOLhyphen"/>fore the Holy Ghoſt doth cry out upon you, <hi>O yee Judges</hi> be learned, Children and women cry out for feare often where no dangers is; but where wiſdome it ſelfe doth cry out, there the danger muſt needs be great.</p>
+            <p>But now my Lords, I come to the learning that is re<g ref="char:EOLhyphen"/>quired in your Lordſhips as Judges of Judges: It cannot be denyed that all learning that can be deſired in any, would adorne and beautifie a Lord; yet let not any cun<g ref="char:EOLhyphen"/>ning Sophiſter perſwade the world that a Lord is not fit to be a ſupreame Judge, unleſſe he be a cunning Lawyer; if any Law be hard for a Lord to underſtand, it is too hard to be a rule for men to walke by. It is ſufficient for a Lord to know unjuſtice, when it is ſo obvious that it is become a publique grievance, to keepe the Judges from bribery and flattery of the King, or oppreſſion of the people, that nothing be done by violence without judgement, or in diſpite of Parliaments.</p>
+            <p>If your Lordſhips could have but hindred the gathering of tunnage and poundage, taxation of ſhipmony, raiſing of monopolies, uſed meanes to have Parliaments orderly called; told the King his dutie, puniſhed his inſtruments when unjuſt, ſo far as they appeared to publique view, ad<g ref="char:EOLhyphen"/>viſed the King to forbeare any illegall power over his peo<g ref="char:EOLhyphen"/>ple, puniſh ſuch as ſhould adviſe him to any unlawfull thing, when prooved, and plainely appearing to you, and
+<pb n="42" facs="tcp:160243:26"/>by your power ſuppreſſed all power raiſed againſt Law, This had been ſufficient, to have preſerved the Kingdome from ruine, <hi>ſeditio non oritur levi de cauſa.</hi> That which is principally required of your Lordſhips in point of know<g ref="char:EOLhyphen"/>ledge, is to receive inſtruction, yee cannot want know<g ref="char:EOLhyphen"/>ledge enough if yee will receive it to deliver the King<g ref="char:EOLhyphen"/>dome from the ſtroke of Gods wrath, the diſſention of the people.</p>
+            <p>I cannot but confeſſe theſe times have involved your Lordſhips in very great difficulties; but the greateſt diffi<g ref="char:EOLhyphen"/>cultie is to amend your ſelves, if you could but give teſti<g ref="char:EOLhyphen"/>mony to the world, that you ſee your ſelves partly by the fault of your Anceſtors, and partly by your owne, diſabled from doing your Country that ſervice which the duties of your places doe require, and that you earneſtly deſire a reformation of your ſelves; if you could but undertake the principall duty of your places, to be reconcilers of the King and people, and propoſe ſuch tearmes of agreement as may be fit for Prince and people to receive, God would certainely aſſiſt you. All Governments are <hi>species amici<g ref="char:EOLhyphen"/>tiae,</hi> kinds of friendſhip, the differences that are at this time betweene the King, and his people are very great; you my Lords ought to uſe all meanes to ſet them at one; you are the Umpiers of the State, your wiſdomes ought now to appeare, you ought to deale plainely with King, and people, where you finde the fault lay the blame, preſſe the King to his duty, and the people to theirs; let your Propoſitions be legall, reaſonable, and wholeſome for the State; God, and good men will not leave ſuch indeavours without comfort &amp; ſucceſſe, you ought not to joyne with the King againſt the Commons, nor with the Commons againſt the King, but carry the Ballance of juſtice ſo juſtly and friendly between them, that they may joyne in friend<g ref="char:EOLhyphen"/>ſhip one with another, you are truſted with the honour of the Crowne, the juſtice of the people, the ſetting up the
+<pb n="43" facs="tcp:160243:26"/>honour of Chriſts Kingdome, yee muſt not ſuffer any of theſe to ſinke.</p>
+            <p n="2">2. Yee muſt amend your ſelves in point of unity, you ought all of you to be united as one man. Unity is the ſafety of the people, in no ſorts of the people ſo dange<g ref="char:EOLhyphen"/>rous as among Lords, <hi>pauci viri boni non minus conjuncti quam ſi eſſent unus homo,</hi> it is that only that ſhall make you able to ſave your ſelves, and your Countries: the difference is betweene the King and the Commons: if one part of you ſide with the King, another with the Commons, and looke towards the ſword, by it to beare downe the adverſe party, you make your Countrey become a prey, and ruine your ſelves and your Poſterities; the end that ought to be before your eyes to bring the government, <hi>ſubſpecie amicitiae,</hi> that you cannot endeavour untill you keepe and preſerve unity among your ſelves, you cannot ſeeke unity between the King and his people, untill you ſeeke it firſt among your ſelves.</p>
+            <p n="3">3. Yee muſt looke to this charge of my Text; remem<g ref="char:EOLhyphen"/>ber what yee are in reference to Chriſt, yee are his ſer<g ref="char:EOLhyphen"/>vants, yee muſt take his advice, call ſuch as can ſhew you the minde of Chriſt, to your aſſiſtance; yee muſt receive in<g ref="char:EOLhyphen"/>ſtruction from him as he is pleaſed to give it by the Mini<g ref="char:EOLhyphen"/>ſters of the word; Luk. 10.16. <hi>He that receiveth you, recei<g ref="char:EOLhyphen"/>veth me, he that despiſeth you, despiſeth me;</hi> yee ſee Chriſt doth owne them as his Deputies, if yee receive them into your Counſells, yee receive Chriſt, if yee caſt them out of your Counſells, yee caſt Chriſt out of your Counſells; if any ſuch thing have been done in hight of oppoſition, be learned, receive inſtruction, and learne to amend; Nati<g ref="char:EOLhyphen"/>ons muſt hearken to the commands of Chriſt Parliaments, that act as Nations muſt doe it, or elſe they will diſpleaſe Chriſt.</p>
+            <p n="2">2. Let nothing be carryed with a ſtrong hand, till they be peaceably deſcided in a friendly and Parliamentary way
+<pb n="44" facs="tcp:160243:27"/>the prerogative of the Crowne, the right of Lords, the ho<g ref="char:EOLhyphen"/>nour of the Meſſengers of Chriſt, the Priviledges of the people; let no parties preſume by power of the ſword to overbeare another.</p>
+            <p n="3">3. Yee my Lords ought to preſerve the dignity of your publique places: it may not be eſteemed an act of humili<g ref="char:EOLhyphen"/>ty in a Majeſtrate or a Miniſter to loſe the right that be<g ref="char:EOLhyphen"/>longeth to their publique places, that is breach of truſt, and neglect of duty; therefore ought Majeſtrates, to maintaine the honour of their places, and act by them for the good and peace of their Countryes, and honour of Chriſt, that ſo they may eſcape the anger of God, and the ſtroake of Chriſts iron rod.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
